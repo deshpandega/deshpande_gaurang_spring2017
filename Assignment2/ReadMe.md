@@ -96,20 +96,31 @@ Also as mentioned for **Bonus**, separated out the hours and minutes for each re
 
 #### Output Format
 The data in final csv file looks something like this:
-Name of Restaurant|City|Country Code|Day of week|Start Time Hour|Start Time Minutes|End Time Hour|End Time Minutes|
--------- | ---
-1 Abercrombie Lane|Sydney|AU|0|07|30|15|30
-1 Abercrombie Lane|Sydney|AU|1|07|30|15|30
-1 Abercrombie Lane|Sydney|AU|2|07|30|15|30
-1 Abercrombie Lane|Sydney|AU|3|07|30|15|30
-1 Abercrombie Lane|Sydney|AU|4|07|30|15|30
-\#1 Chicken Rice & Seafood|Houston|US|0|10|30|20|30|
-\#1 Chicken Rice & Seafood|Houston|US|1|10|30|20|30|
-\#1 Chicken Rice & Seafood|Houston|US|2|10|30|20|30|
-\#1 Chicken Rice & Seafood|Houston|US|3|10|30|20|30|
-\#1 Chicken Rice & Seafood|Houston|US|4|10|30|20|30|
-\#1 Chicken Rice & Seafood|Houston|US|5|10|30|20|30|
-140 Perth|Perth|AU|NA|NA|NA|NA|NA|
+Name of Restaurant | City | Country Code | Day of week | Start Time Hour | Start Time Minutes | End Time Hour | End Time Minutes
+
+1 Abercrombie Lane | Sydney | AU | 0 | 07 | 30 | 15 | 30
+
+1 Abercrombie Lane | Sydney | AU | 1 | 07 | 30 | 15 | 30
+
+1 Abercrombie Lane | Sydney | AU | 2 | 07 | 30 | 15 | 30
+
+1 Abercrombie Lane | Sydney | AU | 3 | 07 | 30 | 15 | 30
+
+1 Abercrombie Lane | Sydney | AU | 4 | 07 | 30 | 15 | 30
+
+\#1 Chicken Rice & Seafood | Houston | US | 0 | 10 | 30 | 20 | 30
+
+\#1 Chicken Rice & Seafood | Houston | US | 1 | 10 | 30 | 20 | 30
+
+\#1 Chicken Rice & Seafood | Houston | US | 2 | 10 | 30 | 20 | 30
+
+\#1 Chicken Rice & Seafood | Houston | US | 3 | 10 | 30 | 20 | 30
+
+\#1 Chicken Rice & Seafood | Houston | US | 4 | 10 | 30 | 20 | 30
+
+\#1 Chicken Rice & Seafood |Houston | US | 5 | 10 | 30 | 20 | 30
+
+140 Perth | Perth | AU | NA | NA | NA | NA | NA
 
 
 ----------
