@@ -4,15 +4,15 @@ Midterm
 Synopsis
 ------------
 This folder contains the the following files for Midterm submission:
->  <i class="icon-folder-open"></i>```midterm/Midterm_Question2_Data_Gathering.ipynb```  file to collect data from NYTimes developer portal for analysis 1, 2 and 3 of question 2
+>  ```midterm/Midterm_Question2_Data_Gathering.ipynb```  file to collect data from NYTimes developer portal for analysis 1, 2 and 3 of question 2
 >  
->  <i class="icon-folder-open"></i>```midterm/data/enron/*``` All the email files used for analysis for **question 1**
->  <i class="icon-folder-open"></i>```midterm/question1/ana[1-3]``` *.ipynb* files for analysis 1, 2 and 3 for question1 
->  <i class="icon-folder-open"></i>```midterm/question1/ana[1-3]/*``` *output* files for analysis 1, 2 and 3 for question 1 respectively
+>  ```midterm/data/enron/*``` All the email files used for analysis for **question 1**
+>  ```midterm/question1/ana[1-3]``` *.ipynb* files for analysis 1, 2 and 3 for question1 
+>  ```midterm/question1/ana[1-3]/*``` *output* files for analysis 1, 2 and 3 for question 1 respectively
 >  
->  <i class="icon-folder-open"></i>```midterm/data/question2/*``` All the json files used for analysis for **question 2**
->  <i class="icon-folder-open"></i>```midterm/question2/ana[1-3]``` *.ipynb* files for analysis 1, 2 and 3 for question2 
->  <i class="icon-folder-open"></i>```midterm/question1/ana[1-3]/*``` *output* files for analysis 1, 2 and 3 for question 2 respectively
+>  ```midterm/data/question2/*``` All the json files used for analysis for **question 2**
+>  ```midterm/question2/ana[1-3]``` *.ipynb* files for analysis 1, 2 and 3 for question2 
+>  ```midterm/question1/ana[1-3]/*``` *output* files for analysis 1, 2 and 3 for question 2 respectively
 >  
 
 -----------
@@ -72,7 +72,7 @@ For Analysis 2, I am finding all people who used some suspected words. I maintai
 -----------
 ### Analysis 3
 For Analysis 3, I am finding the top 30 most active email users from enron. I am showing the results in a form of a plot and also saving that plot in `midterm/question1/ana_3/most_active_users.png` file. For this analysis I am using all the folders belonging to a certain user.
-####<i class="icon-file"></i>ana_2.ipynb
+####<i class="icon-file"></i>ana_3.ipynb
 > **Logic:**
 
 > - Used relative path to fetch data from the sibling folder of parent folder of current file using ```data_dir = os.path.join(current_dir, '..', 'data','enron')```.
@@ -118,7 +118,7 @@ For Analysis 2, I am finding all trending keywords and set of 2 such proper noun
 ### Analysis 3
 For Analysis 3, I am finding in which month *Donald Trump* or *President Trump* or *President Donald Trump* was trending for the past 6 months. I am using `trigrams` and `bigrams` to get a set of words used in lead paragraph. If the article has used his reference once, don't consider it again. So avoiding duplication of data. Also looking for *Trump, Donald J* as keyword. Save the references in a dictionary with month and year as key and number of references as value. Sort the dictionary using the value and plot on a graph and save as png file
 
-####<i class="icon-file"></i>ana_2.ipynb
+####<i class="icon-file"></i>ana_3.ipynb
 > **Logic:**
 
 > - Used relative path to fetch data from the sibling folder of parent folder of current file using ```data_dir = os.path.join(current_dir, '..', 'data','question2','*','*.json')```.  This gives response from both the API responses. Combine the responses as both have similar data structure and eliminate the duplicate articles present in final dataset.
