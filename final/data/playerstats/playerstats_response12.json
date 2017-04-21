@@ -1,0 +1,359 @@
+[
+  {
+    "dbid": 16998,
+    "position": "FW",
+    "number": 10,
+    "shortName": "Lukaku",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 24,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 6
+      }
+    ],
+    "name": "Romelu Lukaku"
+  },
+  {
+    "dbid": 16793,
+    "position": "MF",
+    "number": 8,
+    "shortName": "Barkley",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 8
+      }
+    ],
+    "name": "Ross Barkley"
+  },
+  {
+    "dbid": 16789,
+    "position": "FW",
+    "number": 11,
+    "shortName": "Mirallas",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 6
+      }
+    ],
+    "name": "Kevin Mirallas"
+  },
+  {
+    "dbid": 16796,
+    "position": "DF",
+    "number": 23,
+    "shortName": "Coleman",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "S\u00e9amus Coleman"
+  },
+  {
+    "dbid": 25544,
+    "position": "FW",
+    "number": 19,
+    "shortName": "Valencia",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 3,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Enner Valencia"
+  },
+  {
+    "dbid": 16784,
+    "position": "DF",
+    "number": 6,
+    "shortName": "Jagielka",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 3,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Phil Jagielka"
+  },
+  {
+    "dbid": 16781,
+    "position": "DF",
+    "number": 3,
+    "shortName": "Baines",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Leighton Baines"
+  },
+  {
+    "dbid": 67344,
+    "position": "MF",
+    "number": 26,
+    "shortName": "Davies",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Tom Davies"
+  },
+  {
+    "dbid": 17185,
+    "position": "MF",
+    "number": 18,
+    "shortName": "Barry",
+    "playerstats": [
+      {
+        "yellowCards": 9,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Gareth Barry"
+  },
+  {
+    "dbid": 16867,
+    "position": "FW",
+    "number": 14,
+    "shortName": "Bolasie",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Yannick Bolasie"
+  },
+  {
+    "dbid": 17274,
+    "position": "DF",
+    "number": 5,
+    "shortName": "Williams",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 1,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Ashley Williams"
+  },
+  {
+    "dbid": 23473,
+    "position": "MF",
+    "number": 17,
+    "shortName": "Gueye",
+    "playerstats": [
+      {
+        "yellowCards": 9,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Idrissa Gueye"
+  },
+  {
+    "dbid": 17360,
+    "position": "MF",
+    "number": 16,
+    "shortName": "McCarthy",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "James McCarthy"
+  },
+  {
+    "dbid": 59026,
+    "position": "FW",
+    "number": 31,
+    "shortName": "Lookman",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Ademola Lookman"
+  },
+  {
+    "dbid": 16810,
+    "position": "DF",
+    "number": 38,
+    "shortName": "Pennington",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Matthew Pennington"
+  },
+  {
+    "dbid": 22123,
+    "position": "FW",
+    "number": 29,
+    "shortName": "Calvert-Lewin",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Dominic Calvert-Lewin"
+  },
+  {
+    "dbid": 17224,
+    "position": "MF",
+    "number": 2,
+    "shortName": "Schneiderlin",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Morgan Schneiderlin"
+  },
+  {
+    "dbid": 16779,
+    "position": "GK",
+    "number": 1,
+    "shortName": "Robles",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Joel Robles"
+  },
+  {
+    "dbid": 34456,
+    "position": "DF",
+    "number": 30,
+    "shortName": "Holgate",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Mason Holgate"
+  },
+  {
+    "dbid": 38828,
+    "position": "DF",
+    "number": 25,
+    "shortName": "Funes Mori",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Ramiro Funes Mori"
+  },
+  {
+    "dbid": 17391,
+    "position": "MF",
+    "number": 12,
+    "shortName": "Lennon",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Aaron Lennon"
+  }
+]

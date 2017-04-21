@@ -1,0 +1,274 @@
+[
+  {
+    "dbid": 19798,
+    "position": "FW",
+    "number": 9,
+    "shortName": "Vardy",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 11,
+        "competitionId": 2,
+        "redCards": 1,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Jamie Vardy"
+  },
+  {
+    "dbid": 20935,
+    "position": "FW",
+    "number": 19,
+    "shortName": "Slimani",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 7,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Islam Slimani"
+  },
+  {
+    "dbid": 22236,
+    "position": "MF",
+    "number": 26,
+    "shortName": "Mahrez",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 5,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Riyad Mahrez"
+  },
+  {
+    "dbid": 18475,
+    "position": "DF",
+    "number": 28,
+    "shortName": "Fuchs",
+    "playerstats": [
+      {
+        "yellowCards": 8,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Christian Fuchs"
+  },
+  {
+    "dbid": 17112,
+    "position": "DF",
+    "number": 6,
+    "shortName": "Huth",
+    "playerstats": [
+      {
+        "yellowCards": 8,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Robert Huth"
+  },
+  {
+    "dbid": 18594,
+    "position": "FW",
+    "number": 7,
+    "shortName": "Musa",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Ahmed Musa"
+  },
+  {
+    "dbid": 17781,
+    "position": "FW",
+    "number": 20,
+    "shortName": "Okazaki",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Shinji Okazaki"
+  },
+  {
+    "dbid": 17147,
+    "position": "MF",
+    "number": 11,
+    "shortName": "Albrighton",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 5
+      }
+    ],
+    "name": "Marc Albrighton"
+  },
+  {
+    "dbid": 21023,
+    "position": "MF",
+    "number": 22,
+    "shortName": "Gray",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Demarai Gray"
+  },
+  {
+    "dbid": 27332,
+    "position": "MF",
+    "number": 13,
+    "shortName": "Amartey",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Daniel Amartey"
+  },
+  {
+    "dbid": 19794,
+    "position": "MF",
+    "number": 4,
+    "shortName": "Drinkwater",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Danny Drinkwater"
+  },
+  {
+    "dbid": 19795,
+    "position": "DF",
+    "number": 5,
+    "shortName": "Morgan",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Wes Morgan"
+  },
+  {
+    "dbid": 52469,
+    "position": "MF",
+    "number": 25,
+    "shortName": "Ndidi",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Wilfred Ndidi"
+  },
+  {
+    "dbid": 21636,
+    "position": "FW",
+    "number": 23,
+    "shortName": "Ulloa",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Leonardo Ulloa"
+  },
+  {
+    "dbid": 17789,
+    "position": "MF",
+    "number": 10,
+    "shortName": "King",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Andy King"
+  },
+  {
+    "dbid": 21371,
+    "position": "DF",
+    "number": 17,
+    "shortName": "Simpson",
+    "playerstats": [
+      {
+        "yellowCards": 9,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Danny Simpson"
+  }
+]

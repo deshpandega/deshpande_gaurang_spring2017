@@ -1,0 +1,274 @@
+[
+  {
+    "dbid": 18544,
+    "position": "FW",
+    "number": 9,
+    "shortName": "Ibrahimovi\u0107",
+    "playerstats": [
+      {
+        "yellowCards": 7,
+        "goals": 17,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 5
+      }
+    ],
+    "name": "Zlatan Ibrahimovi\u0107"
+  },
+  {
+    "dbid": 16984,
+    "position": "MF",
+    "number": 8,
+    "shortName": "Mata",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 6,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Juan Mata"
+  },
+  {
+    "dbid": 60051,
+    "position": "FW",
+    "number": 19,
+    "shortName": "Rashford",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 5,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Marcus Rashford"
+  },
+  {
+    "dbid": 18515,
+    "position": "MF",
+    "number": 6,
+    "shortName": "Pogba",
+    "playerstats": [
+      {
+        "yellowCards": 7,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Paul Pogba"
+  },
+  {
+    "dbid": 18492,
+    "position": "MF",
+    "number": 22,
+    "shortName": "Mkhitaryan",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Henrikh Mkhitaryan"
+  },
+  {
+    "dbid": 23015,
+    "position": "FW",
+    "number": 11,
+    "shortName": "Martial",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 3,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Anthony Martial"
+  },
+  {
+    "dbid": 16924,
+    "position": "FW",
+    "number": 10,
+    "shortName": "Rooney",
+    "playerstats": [
+      {
+        "yellowCards": 6,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 5
+      }
+    ],
+    "name": "Wayne Rooney"
+  },
+  {
+    "dbid": 22840,
+    "position": "MF",
+    "number": 21,
+    "shortName": "Herrera",
+    "playerstats": [
+      {
+        "yellowCards": 7,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 5
+      }
+    ],
+    "name": "Ander Herrera"
+  },
+  {
+    "dbid": 16922,
+    "position": "MF",
+    "number": 25,
+    "shortName": "Valencia",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Antonio Valencia"
+  },
+  {
+    "dbid": 17927,
+    "position": "MF",
+    "number": 14,
+    "shortName": "Lingard",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Jesse Lingard"
+  },
+  {
+    "dbid": 18145,
+    "position": "DF",
+    "number": 17,
+    "shortName": "Blind",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Daley Blind"
+  },
+  {
+    "dbid": 16926,
+    "position": "DF",
+    "number": 12,
+    "shortName": "Smalling",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Chris Smalling"
+  },
+  {
+    "dbid": 16798,
+    "position": "MF",
+    "number": 27,
+    "shortName": "Fellaini",
+    "playerstats": [
+      {
+        "yellowCards": 8,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Marouane Fellaini"
+  },
+  {
+    "dbid": 17732,
+    "position": "DF",
+    "number": 5,
+    "shortName": "Rojo",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Marcos Rojo"
+  },
+  {
+    "dbid": 17237,
+    "position": "DF",
+    "number": 23,
+    "shortName": "Shaw",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Luke Shaw"
+  },
+  {
+    "dbid": 16932,
+    "position": "MF",
+    "number": 18,
+    "shortName": "Young",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Ashley Young"
+  }
+]

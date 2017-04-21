@@ -1,0 +1,257 @@
+[
+  {
+    "dbid": 20221,
+    "position": "FW",
+    "number": 19,
+    "shortName": "Man\u00e9",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 13,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 6
+      }
+    ],
+    "name": "Sadio Man\u00e9"
+  },
+  {
+    "dbid": 25229,
+    "position": "FW",
+    "number": 11,
+    "shortName": "Firmino",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 11,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 8
+      }
+    ],
+    "name": "Roberto Firmino"
+  },
+  {
+    "dbid": 17011,
+    "position": "MF",
+    "number": 10,
+    "shortName": "Coutinho",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 9,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 6
+      }
+    ],
+    "name": "Philippe Coutinho"
+  },
+  {
+    "dbid": 17235,
+    "position": "MF",
+    "number": 20,
+    "shortName": "Lallana",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 7,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 7
+      }
+    ],
+    "name": "Adam Lallana"
+  },
+  {
+    "dbid": 17175,
+    "position": "DF",
+    "number": 7,
+    "shortName": "Milner",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 7,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "James Milner"
+  },
+  {
+    "dbid": 23490,
+    "position": "FW",
+    "number": 27,
+    "shortName": "Origi",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 6,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Divock Origi"
+  },
+  {
+    "dbid": 20472,
+    "position": "MF",
+    "number": 5,
+    "shortName": "Wijnaldum",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 5,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 5
+      }
+    ],
+    "name": "Georginio Wijnaldum"
+  },
+  {
+    "dbid": 18301,
+    "position": "MF",
+    "number": 23,
+    "shortName": "Can",
+    "playerstats": [
+      {
+        "yellowCards": 6,
+        "goals": 4,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Emre Can"
+  },
+  {
+    "dbid": 17014,
+    "position": "FW",
+    "number": 15,
+    "shortName": "Sturridge",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Daniel Sturridge"
+  },
+  {
+    "dbid": 17244,
+    "position": "DF",
+    "number": 6,
+    "shortName": "Lovren",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Dejan Lovren"
+  },
+  {
+    "dbid": 17013,
+    "position": "MF",
+    "number": 14,
+    "shortName": "Henderson",
+    "playerstats": [
+      {
+        "yellowCards": 8,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 4
+      }
+    ],
+    "name": "Jordan Henderson"
+  },
+  {
+    "dbid": 18479,
+    "position": "DF",
+    "number": 32,
+    "shortName": "Matip",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Jo\u00ebl Matip"
+  },
+  {
+    "dbid": 17222,
+    "position": "DF",
+    "number": 2,
+    "shortName": "Clyne",
+    "playerstats": [
+      {
+        "yellowCards": 0,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Nathaniel Clyne"
+  },
+  {
+    "dbid": 17017,
+    "position": "MF",
+    "number": 21,
+    "shortName": "Leiva",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Lucas Leiva"
+  },
+  {
+    "dbid": 19148,
+    "position": "DF",
+    "number": 18,
+    "shortName": "Moreno",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Alberto Moreno"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "dbid": 17396,
+    "position": "FW",
+    "number": 18,
+    "shortName": "Defoe",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 14,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Jermain Defoe"
+  },
+  {
+    "dbid": 25426,
+    "position": "DF",
+    "number": 3,
+    "shortName": "van Aanholt",
+    "playerstats": [
+      {
+        "yellowCards": 2,
+        "goals": 3,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Patrick van Aanholt"
+  },
+  {
+    "dbid": 16801,
+    "position": "FW",
+    "number": 28,
+    "shortName": "Anichebe",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 3,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Victor Anichebe"
+  },
+  {
+    "dbid": 17020,
+    "position": "FW",
+    "number": 9,
+    "shortName": "Borini",
+    "playerstats": [
+      {
+        "yellowCards": 3,
+        "goals": 2,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Fabio Borini"
+  },
+  {
+    "dbid": 24833,
+    "position": "MF",
+    "number": 10,
+    "shortName": "Khazri",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Wahbi Khazri"
+  },
+  {
+    "dbid": 24848,
+    "position": "DF",
+    "number": 23,
+    "shortName": "Kon\u00e9",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Lamine Kon\u00e9"
+  },
+  {
+    "dbid": 36021,
+    "position": "MF",
+    "number": 17,
+    "shortName": "Ndong",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 1,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 0
+      }
+    ],
+    "name": "Didier Ndong"
+  },
+  {
+    "dbid": 17721,
+    "position": "MF",
+    "number": 44,
+    "shortName": "Januzaj",
+    "playerstats": [
+      {
+        "yellowCards": 5,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 3
+      }
+    ],
+    "name": "Adnan Januzaj"
+  },
+  {
+    "dbid": 22235,
+    "position": "MF",
+    "number": 14,
+    "shortName": "Watmore",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 2
+      }
+    ],
+    "name": "Duncan Watmore"
+  },
+  {
+    "dbid": 17184,
+    "position": "MF",
+    "number": 8,
+    "shortName": "Rodwell",
+    "playerstats": [
+      {
+        "yellowCards": 4,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Jack Rodwell"
+  },
+  {
+    "dbid": 57816,
+    "position": "DF",
+    "number": 22,
+    "shortName": "Love",
+    "playerstats": [
+      {
+        "yellowCards": 1,
+        "goals": 0,
+        "competitionId": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "assists": 1
+      }
+    ],
+    "name": "Donald Love"
+  }
+]

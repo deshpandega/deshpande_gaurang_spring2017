@@ -1,0 +1,251 @@
+goals,player,teamGoals,teamname,percentContribution
+14,Defoe,26,Sunderland,53.85
+24,Lukaku,60,Everton,40.0
+17,Ibrahimovi?,48,Man United,35.42
+8,Negredo,23,Middlesbrough,34.78
+19,Sánchez,63,Arsenal,30.16
+11,Llorente,37,Swansea,29.73
+20,Kane,68,Tottenham,29.41
+13,King,45,Bournemouth,28.89
+12,Benteke,44,Crystal Palace,27.27
+10,Deeney,37,Watford,27.03
+17,Agüero,63,Man City,26.98
+11,Vardy,41,Leicester,26.83
+17,Costa,65,Chelsea,26.15
+8,Gray,33,Burnley,24.24
+16,Alli,68,Tottenham,23.53
+8,Sigurðsson,37,Swansea,21.62
+14,Hazard,65,Chelsea,21.54
+7,Snodgrass,34,Hull,20.59
+9,Antonio,44,West Ham,20.45
+13,Mané,69,Liverpool,18.84
+6,Vokes,33,Burnley,18.18
+7,Rondón,39,West Brom,17.95
+12,Son,68,Tottenham,17.65
+4,Stuani,23,Middlesbrough,17.39
+7,Slimani,41,Leicester,17.07
+6,Fer,37,Swansea,16.22
+6,Capoue,37,Watford,16.22
+6,Austin,37,Southampton,16.22
+6,Redmond,37,Southampton,16.22
+6,Arnautovi?,37,Stoke,16.22
+6,Allen,37,Stoke,16.22
+11,Firmino,69,Liverpool,15.94
+7,Lanzini,44,West Ham,15.91
+7,Carroll,44,West Ham,15.91
+10,Walcott,63,Arsenal,15.87
+6,McAuley,39,West Brom,15.38
+5,Barnes,33,Burnley,15.15
+9,Giroud,63,Arsenal,14.29
+6,Zaha,44,Crystal Palace,13.64
+5,Crouch,37,Stoke,13.51
+6,Wilson,45,Bournemouth,13.33
+9,Coutinho,69,Liverpool,13.04
+3,de Roon,23,Middlesbrough,13.04
+5,Chadli,39,West Brom,12.82
+5,Morrison,39,West Brom,12.82
+6,Mata,48,Man United,12.5
+5,Mahrez,41,Leicester,12.2
+4,Hernández,34,Hull,11.76
+4,Niasse,34,Hull,11.76
+3,van Aanholt,26,Sunderland,11.54
+3,Anichebe,26,Sunderland,11.54
+5,Ayew,44,West Ham,11.36
+5,McArthur,44,Crystal Palace,11.36
+7,Özil,63,Arsenal,11.11
+5,Afobe,45,Bournemouth,11.11
+4,Mawson,37,Swansea,10.81
+4,Ward-Prowse,37,Southampton,10.81
+4,Rodriguez,37,Southampton,10.81
+4,Gabbiadini,37,Southampton,10.81
+4,Shaqiri,37,Stoke,10.81
+4,Walters,37,Stoke,10.81
+7,Pedro,65,Chelsea,10.77
+5,Rashford,48,Man United,10.42
+7,Eriksen,68,Tottenham,10.29
+4,Phillips,39,West Brom,10.26
+7,Lallana,69,Liverpool,10.14
+7,Milner,69,Liverpool,10.14
+6,Sterling,63,Man City,9.52
+6,Willian,65,Chelsea,9.23
+4,Cabaye,44,Crystal Palace,9.09
+4,Stanislas,45,Bournemouth,8.89
+3,Dawson,34,Hull,8.82
+6,Origi,69,Liverpool,8.7
+2,Ramírez,23,Middlesbrough,8.7
+4,Pogba,48,Man United,8.33
+4,Mkhitaryan,48,Man United,8.33
+3,Routledge,37,Swansea,8.11
+3,Okaka,37,Watford,8.11
+3,Tadi?,37,Southampton,8.11
+3,Long,37,Southampton,8.11
+3,Bojan,37,Stoke,8.11
+5,Sané,63,Man City,7.94
+5,Alonso,65,Chelsea,7.69
+3,Brunt,39,West Brom,7.69
+3,Dawson,39,West Brom,7.69
+2,Borini,26,Sunderland,7.69
+5,Wijnaldum,69,Liverpool,7.25
+3,Noble,44,West Ham,6.82
+3,Townsend,44,Crystal Palace,6.82
+3,Dann,44,Crystal Palace,6.82
+3,Tomkins,44,Crystal Palace,6.82
+4,Barkley,60,Everton,6.67
+4,Mirallas,60,Everton,6.67
+4,Coleman,60,Everton,6.67
+3,Daniels,45,Bournemouth,6.67
+3,Fraser,45,Bournemouth,6.67
+3,Aké,45,Bournemouth,6.67
+4,De Bruyne,63,Man City,6.35
+4,Iheanacho,63,Man City,6.35
+4,Nolito,63,Man City,6.35
+4,Touré,63,Man City,6.35
+3,Martial,48,Man United,6.25
+4,Fàbregas,65,Chelsea,6.15
+4,Cahill,65,Chelsea,6.15
+2,Hendrick,33,Burnley,6.06
+2,Keane,33,Burnley,6.06
+2,Boyd,33,Burnley,6.06
+2,Maguire,34,Hull,5.88
+2,Ranocchia,34,Hull,5.88
+2,Diomandé,34,Hull,5.88
+4,Can,69,Liverpool,5.8
+2,Olsson,37,Swansea,5.41
+2,Holebas,37,Watford,5.41
+2,Niang,37,Watford,5.41
+2,Pereyra,37,Watford,5.41
+2,Kaboul,37,Watford,5.41
+2,Kabasele,37,Watford,5.41
+2,Bony,37,Stoke,5.41
+2,Robson-Kanu,39,West Brom,5.13
+2,Fletcher,39,West Brom,5.13
+3,Valencia,60,Everton,5.0
+3,Jagielka,60,Everton,5.0
+2,Fuchs,41,Leicester,4.88
+2,Huth,41,Leicester,4.88
+2,Musa,41,Leicester,4.88
+2,Okazaki,41,Leicester,4.88
+3,Iwobi,63,Arsenal,4.76
+3,Jesus,63,Man City,4.76
+3,Gündo?an,63,Man City,4.76
+3,Moses,65,Chelsea,4.62
+2,Payet,44,West Ham,4.55
+2,Feghouli,44,West Ham,4.55
+2,Reid,44,West Ham,4.55
+2,Collins,44,West Ham,4.55
+2,Wickham,44,Crystal Palace,4.55
+2,Cook,45,Bournemouth,4.44
+2,Gosling,45,Bournemouth,4.44
+1,Downing,23,Middlesbrough,4.35
+1,Gibson,23,Middlesbrough,4.35
+1,Leadbitter,23,Middlesbrough,4.35
+1,Ayala,23,Middlesbrough,4.35
+1,Gestede,23,Middlesbrough,4.35
+2,Rooney,48,Man United,4.17
+1,Khazri,26,Sunderland,3.85
+1,Koné,26,Sunderland,3.85
+1,Ndong,26,Sunderland,3.85
+2,Baines,60,Everton,3.33
+2,Davies,60,Everton,3.33
+2,Barry,60,Everton,3.33
+2,Chamberlain,63,Arsenal,3.17
+2,Cazorla,63,Arsenal,3.17
+2,Mustafi,63,Arsenal,3.17
+2,Koscielny,63,Arsenal,3.17
+2,Silva,63,Man City,3.17
+1,Defour,33,Burnley,3.03
+1,Marney,33,Burnley,3.03
+1,Guðmundsson,33,Burnley,3.03
+1,Barton,33,Burnley,3.03
+1,Arfield,33,Burnley,3.03
+1,Brady,33,Burnley,3.03
+1,Mee,33,Burnley,3.03
+1,Ward,33,Burnley,3.03
+2,Rose,68,Tottenham,2.94
+2,Janssen,68,Tottenham,2.94
+2,Dier,68,Tottenham,2.94
+2,Wanyama,68,Tottenham,2.94
+1,Maloney,34,Hull,2.94
+1,Robertson,34,Hull,2.94
+1,Clucas,34,Hull,2.94
+1,Livermore,34,Hull,2.94
+1,Meyler,34,Hull,2.94
+1,Markovi?,34,Hull,2.94
+1,Huddlestone,34,Hull,2.94
+1,N'Diaye,34,Hull,2.94
+1,Mason,34,Hull,2.94
+2,Sturridge,69,Liverpool,2.9
+2,Lovren,69,Liverpool,2.9
+1,van der Hoorn,37,Swansea,2.7
+1,Rangel,37,Swansea,2.7
+1,Bastón,37,Swansea,2.7
+1,Prödl,37,Watford,2.7
+1,Janmaat,37,Watford,2.7
+1,Ighalo,37,Watford,2.7
+1,Britos,37,Watford,2.7
+1,Zúñiga,37,Watford,2.7
+1,Success,37,Watford,2.7
+1,Doucouré,37,Watford,2.7
+1,Bertrand,37,Southampton,2.7
+1,Clasie,37,Southampton,2.7
+1,Yoshida,37,Southampton,2.7
+1,Boufal,37,Southampton,2.7
+1,van Dijk,37,Southampton,2.7
+1,Adam,37,Stoke,2.7
+1,Shawcross,37,Stoke,2.7
+1,Martins Indi,37,Stoke,2.7
+1,Muniesa,37,Stoke,2.7
+1,McClean,39,West Brom,2.56
+1,Evans,39,West Brom,2.56
+1,Albrighton,41,Leicester,2.44
+1,Gray,41,Leicester,2.44
+1,Amartey,41,Leicester,2.44
+1,Drinkwater,41,Leicester,2.44
+1,Morgan,41,Leicester,2.44
+1,Ndidi,41,Leicester,2.44
+1,Ulloa,41,Leicester,2.44
+1,King,41,Leicester,2.44
+1,Obiang,44,West Ham,2.27
+1,Kouyaté,44,West Ham,2.27
+1,Calleri,44,West Ham,2.27
+1,Sakho,44,West Ham,2.27
+1,Ledley,44,Crystal Palace,2.27
+1,van Aanholt,44,Crystal Palace,2.27
+1,Campbell,44,Crystal Palace,2.27
+1,Milivojevi?,44,Crystal Palace,2.27
+1,Smith,45,Bournemouth,2.22
+1,Arter,45,Bournemouth,2.22
+1,Pugh,45,Bournemouth,2.22
+1,Herrera,48,Man United,2.08
+1,Valencia,48,Man United,2.08
+1,Lingard,48,Man United,2.08
+1,Blind,48,Man United,2.08
+1,Smalling,48,Man United,2.08
+1,Fellaini,48,Man United,2.08
+1,Rojo,48,Man United,2.08
+1,Bolasie,60,Everton,1.67
+1,Williams,60,Everton,1.67
+1,Gueye,60,Everton,1.67
+1,McCarthy,60,Everton,1.67
+1,Lookman,60,Everton,1.67
+1,Pennington,60,Everton,1.67
+1,Calvert-Lewin,60,Everton,1.67
+1,Schneiderlin,60,Everton,1.67
+1,Xhaka,63,Arsenal,1.59
+1,Welbeck,63,Arsenal,1.59
+1,Perez,63,Arsenal,1.59
+1,Chambers,63,Arsenal,1.59
+1,Fernandinho,63,Man City,1.59
+1,Kolarov,63,Man City,1.59
+1,Clichy,63,Man City,1.59
+1,Kompany,63,Man City,1.59
+1,Zabaleta,63,Man City,1.59
+1,Delph,63,Man City,1.59
+1,Batshuayi,65,Chelsea,1.54
+1,Kanté,65,Chelsea,1.54
+1,Luiz,65,Chelsea,1.54
+1,Lamela,68,Tottenham,1.47
+1,Dembélé,68,Tottenham,1.47
+1,Winks,68,Tottenham,1.47
+1,Henderson,69,Liverpool,1.45
+1,Matip,69,Liverpool,1.45
