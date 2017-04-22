@@ -1,422 +1,422 @@
 [
   {
-    "dbid": 480,
-    "showAssistStats": true,
-    "shortCode": "BUR",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/burnley-home.svg",
-    "shortName": "Burnley",
-    "isNational": false,
     "name": "Burnley",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Burnley",
     "defaultHomeVenue": {
-      "dbid": 138,
-      "name": "Turf Moor",
+      "capacity": 22546,
       "geolocation": {
         "latitude": 53.789064,
         "longitude": -2.230225
       },
-      "capacity": 22546
-    }
+      "dbid": 138,
+      "name": "Turf Moor"
+    },
+    "showCardStats": true,
+    "dbid": 480,
+    "shortCode": "BUR",
+    "showLeagueTables": true
   },
   {
-    "dbid": 481,
-    "showAssistStats": true,
-    "shortCode": "LEI",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/leicester-city-home.svg",
-    "shortName": "Leicester",
-    "isNational": false,
     "name": "Leicester City",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Leicester",
     "defaultHomeVenue": {
-      "dbid": 419,
-      "name": "King Power Stadium",
+      "capacity": 32262,
       "geolocation": {
         "latitude": 52.6202777778,
         "longitude": -1.1422222222199707
       },
-      "capacity": 32262
-    }
+      "dbid": 419,
+      "name": "King Power Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 481,
+    "shortCode": "LEI",
+    "showLeagueTables": true
   },
   {
-    "dbid": 2,
-    "showAssistStats": true,
-    "shortCode": "MNU",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/man-utd-home.svg",
-    "shortName": "Man Utd",
-    "isNational": false,
     "name": "Manchester United",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Man Utd",
     "defaultHomeVenue": {
-      "dbid": 451,
-      "name": "Old Trafford",
+      "capacity": 75731,
       "geolocation": {
         "latitude": 53.4630555556,
         "longitude": -2.29138888889
       },
-      "capacity": 75731
-    }
+      "dbid": 451,
+      "name": "Old Trafford"
+    },
+    "showCardStats": true,
+    "dbid": 2,
+    "shortCode": "MNU",
+    "showLeagueTables": true
   },
   {
-    "dbid": 483,
-    "showAssistStats": true,
-    "shortCode": "WAT",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/watford-home.svg",
-    "shortName": "Watford",
-    "isNational": false,
     "name": "Watford",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Watford",
     "defaultHomeVenue": {
-      "dbid": 730,
-      "name": "Vicarage Road",
+      "capacity": 17477,
       "geolocation": {
         "latitude": 51.649928,
         "longitude": -0.401606
       },
-      "capacity": 17477
-    }
+      "dbid": 730,
+      "name": "Vicarage Road"
+    },
+    "showCardStats": true,
+    "dbid": 483,
+    "shortCode": "WAT",
+    "showLeagueTables": true
   },
   {
-    "dbid": 1,
-    "showAssistStats": true,
-    "shortCode": "LIV",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/liverpool-home.svg",
-    "shortName": "Liverpool",
-    "isNational": false,
     "name": "Liverpool",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Liverpool",
     "defaultHomeVenue": {
-      "dbid": 430,
-      "name": "Anfield Stadium",
+      "capacity": 57074,
       "geolocation": {
         "latitude": 53.4308194444,
         "longitude": -2.9608277777799685
       },
-      "capacity": 57074
-    }
+      "dbid": 430,
+      "name": "Anfield Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 1,
+    "shortCode": "LIV",
+    "showLeagueTables": true
   },
   {
-    "dbid": 69,
-    "showAssistStats": true,
-    "shortCode": "SOT",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/southampton-home.svg",
-    "shortName": "Southampton",
-    "isNational": false,
     "name": "Southampton",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Southampton",
     "defaultHomeVenue": {
-      "dbid": 637,
-      "name": "St Mary's Stadium",
+      "capacity": 32589,
       "geolocation": {
         "latitude": 50.9058333333,
         "longitude": -1.39111111111
       },
-      "capacity": 32589
-    }
+      "dbid": 637,
+      "name": "St Mary's Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 69,
+    "shortCode": "SOT",
+    "showLeagueTables": true
   },
   {
-    "dbid": 7,
-    "showAssistStats": true,
-    "shortCode": "CHE",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/chelsea-home.svg",
-    "shortName": "Chelsea",
-    "isNational": false,
     "name": "Chelsea",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Chelsea",
     "defaultHomeVenue": {
-      "dbid": 165,
-      "name": "Stamford Bridge",
+      "capacity": 41798,
       "geolocation": {
         "latitude": 51.4816666667,
         "longitude": -0.191111111111
       },
-      "capacity": 41798
-    }
+      "dbid": 165,
+      "name": "Stamford Bridge"
+    },
+    "showCardStats": true,
+    "dbid": 7,
+    "shortCode": "CHE",
+    "showLeagueTables": true
   },
   {
-    "dbid": 8,
-    "showAssistStats": true,
-    "shortCode": "STK",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/stoke-home.svg",
-    "shortName": "Stoke",
-    "isNational": false,
     "name": "Stoke City",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Stoke",
     "defaultHomeVenue": {
-      "dbid": 665,
-      "name": "Britannia Stadium",
+      "capacity": 27740,
       "geolocation": {
         "latitude": 52.9883333333,
         "longitude": -2.17555555556
       },
-      "capacity": 27740
-    }
+      "dbid": 665,
+      "name": "Britannia Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 8,
+    "shortCode": "STK",
+    "showLeagueTables": true
   },
   {
-    "dbid": 556,
-    "showAssistStats": true,
-    "shortCode": "MBO",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/middlesbrough-home.svg",
-    "shortName": "Middlesbro'",
-    "isNational": false,
     "name": "Middlesbrough",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Middlesbro'",
     "defaultHomeVenue": {
-      "dbid": 464,
-      "name": "Riverside Stadium",
+      "capacity": 34742,
       "geolocation": {
         "latitude": 54.5783333333,
         "longitude": -1.21694444444
       },
-      "capacity": 34742
-    }
+      "dbid": 464,
+      "name": "Riverside Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 556,
+    "shortCode": "MBO",
+    "showLeagueTables": true
   },
   {
-    "dbid": 14,
-    "showAssistStats": true,
-    "shortCode": "WBA",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/west-brom-home.svg",
-    "shortName": "West Brom",
-    "isNational": false,
     "name": "West Bromwich Albion",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "West Brom",
     "defaultHomeVenue": {
-      "dbid": 735,
-      "name": "The Hawthorns",
+      "capacity": 26445,
       "geolocation": {
         "latitude": 52.5091666667,
         "longitude": -1.96388888889
       },
-      "capacity": 26445
-    }
+      "dbid": 735,
+      "name": "The Hawthorns"
+    },
+    "showCardStats": true,
+    "dbid": 14,
+    "shortCode": "WBA",
+    "showLeagueTables": true
   },
   {
-    "dbid": 12,
-    "showAssistStats": true,
-    "shortCode": "EVE",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/everton-home.svg",
-    "shortName": "Everton",
-    "isNational": false,
     "name": "Everton",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Everton",
     "defaultHomeVenue": {
-      "dbid": 270,
-      "name": "Goodison Park",
+      "capacity": 40157,
       "geolocation": {
         "latitude": 53.4388888889,
         "longitude": -2.96638888889
       },
-      "capacity": 40157
-    }
+      "dbid": 270,
+      "name": "Goodison Park"
+    },
+    "showCardStats": true,
+    "dbid": 12,
+    "shortCode": "EVE",
+    "showLeagueTables": true
   },
   {
-    "dbid": 13,
-    "showAssistStats": true,
-    "shortCode": "TOT",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/tottenham-home.svg",
-    "shortName": "Tottenham",
-    "isNational": false,
     "name": "Tottenham Hotspur",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Tottenham",
     "defaultHomeVenue": {
-      "dbid": 689,
-      "name": "White Hart Lane",
+      "capacity": 36284,
       "geolocation": {
         "latitude": 51.6033333333,
         "longitude": -0.0658333333333
       },
-      "capacity": 36284
-    }
+      "dbid": 689,
+      "name": "White Hart Lane"
+    },
+    "showCardStats": true,
+    "dbid": 13,
+    "shortCode": "TOT",
+    "showLeagueTables": true
   },
   {
-    "dbid": 558,
-    "showAssistStats": true,
-    "shortCode": "BOR",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/bournemouth-home.svg",
-    "shortName": "Bournemouth",
-    "isNational": false,
     "name": "Bournemouth",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Bournemouth",
     "defaultHomeVenue": {
-      "dbid": 117,
-      "name": "Dean Court",
+      "capacity": 12000,
       "geolocation": {
         "latitude": 50.735278,
         "longitude": -1.838333
       },
-      "capacity": 12000
-    }
+      "dbid": 117,
+      "name": "Dean Court"
+    },
+    "showCardStats": true,
+    "dbid": 558,
+    "shortCode": "BOR",
+    "showLeagueTables": true
   },
   {
-    "dbid": 15,
-    "showAssistStats": true,
-    "shortCode": "SWA",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/swansea-home.svg",
-    "shortName": "Swansea",
-    "isNational": false,
     "name": "Swansea City",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Swansea",
     "defaultHomeVenue": {
-      "dbid": 673,
-      "name": "Liberty Stadium",
+      "capacity": 20750,
       "geolocation": {
         "latitude": 51.6422,
         "longitude": -3.9351
       },
-      "capacity": 20750
-    }
+      "dbid": 673,
+      "name": "Liberty Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 15,
+    "shortCode": "SWA",
+    "showLeagueTables": true
   },
   {
-    "dbid": 337,
-    "showAssistStats": true,
-    "shortCode": "CRY",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/crystal-palace-home.svg",
-    "shortName": "Palace",
-    "isNational": false,
     "name": "Crystal Palace",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Palace",
     "defaultHomeVenue": {
-      "dbid": 209,
-      "name": "Selhurst Park",
+      "capacity": 26255,
       "geolocation": {
         "latitude": 51.3983333333,
         "longitude": -0.0855555555556
       },
-      "capacity": 26255
-    }
+      "dbid": 209,
+      "name": "Selhurst Park"
+    },
+    "showCardStats": true,
+    "dbid": 337,
+    "shortCode": "CRY",
+    "showLeagueTables": true
   },
   {
-    "dbid": 18,
-    "showAssistStats": true,
-    "shortCode": "ARS",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/arsenal-home.svg",
-    "shortName": "Arsenal",
-    "isNational": false,
     "name": "Arsenal",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Arsenal",
     "defaultHomeVenue": {
-      "dbid": 47,
-      "name": "Emirates Stadium",
+      "capacity": 60338,
       "geolocation": {
         "latitude": 51.555,
         "longitude": -0.108611111111
       },
-      "capacity": 60338
-    }
+      "dbid": 47,
+      "name": "Emirates Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 18,
+    "shortCode": "ARS",
+    "showLeagueTables": true
   },
   {
-    "dbid": 20,
-    "showAssistStats": true,
-    "shortCode": "MNC",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/man-city-home.svg",
-    "shortName": "Man City",
-    "isNational": false,
     "name": "Manchester City",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Man City",
     "defaultHomeVenue": {
-      "dbid": 450,
-      "name": "City of Manchester Stadium",
+      "capacity": 41000,
       "geolocation": {
         "latitude": 53.4830555556,
         "longitude": -2.20027777778
       },
-      "capacity": 41000
-    }
+      "dbid": 450,
+      "name": "City of Manchester Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 20,
+    "shortCode": "MNC",
+    "showLeagueTables": true
   },
   {
-    "dbid": 366,
-    "showAssistStats": true,
-    "shortCode": "HUL",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/hull-home.svg",
-    "shortName": "Hull",
-    "isNational": false,
     "name": "Hull City",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Hull",
     "defaultHomeVenue": {
-      "dbid": 377,
-      "name": "KC Stadium",
+      "capacity": 25400,
       "geolocation": {
         "latitude": 53.7461111111,
         "longitude": -0.367777777778
       },
-      "capacity": 25400
-    }
+      "dbid": 377,
+      "name": "KC Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 366,
+    "shortCode": "HUL",
+    "showLeagueTables": true
   },
   {
-    "dbid": 9,
-    "showAssistStats": true,
-    "shortCode": "SUN",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/sunderland-home.svg",
-    "shortName": "Sunderland",
-    "isNational": false,
     "name": "Sunderland",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "Sunderland",
     "defaultHomeVenue": {
-      "dbid": 670,
-      "name": "Stadium of Light",
+      "capacity": 49000,
       "geolocation": {
         "latitude": 54.9144,
         "longitude": -1.3882
       },
-      "capacity": 49000
-    }
+      "dbid": 670,
+      "name": "Stadium of Light"
+    },
+    "showCardStats": true,
+    "dbid": 9,
+    "shortCode": "SUN",
+    "showLeagueTables": true
   },
   {
-    "dbid": 202,
-    "showAssistStats": true,
-    "shortCode": "WHU",
     "showGoalStats": true,
     "shirtUrl": "https://static.crowdscores.com/kits/west-ham-home.svg",
-    "shortName": "West Ham",
-    "isNational": false,
     "name": "West Ham United",
-    "showLeagueTables": true,
-    "showCardStats": true,
+    "showAssistStats": true,
+    "isNational": false,
+    "shortName": "West Ham",
     "defaultHomeVenue": {
-      "dbid": 2737,
-      "name": "Olympic Stadium",
+      "capacity": 60000,
       "geolocation": {
         "latitude": 51.53864206551841,
         "longitude": -0.016451389965823182
       },
-      "capacity": 60000
-    }
+      "dbid": 2737,
+      "name": "Olympic Stadium"
+    },
+    "showCardStats": true,
+    "dbid": 202,
+    "shortCode": "WHU",
+    "showLeagueTables": true
   }
 ]

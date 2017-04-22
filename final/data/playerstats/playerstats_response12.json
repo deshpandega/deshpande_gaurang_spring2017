@@ -1,359 +1,359 @@
 [
   {
-    "dbid": 16998,
-    "position": "FW",
-    "number": 10,
     "shortName": "Lukaku",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 24,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Romelu Lukaku"
+    "name": "Romelu Lukaku",
+    "dbid": 16998,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 16793,
-    "position": "MF",
-    "number": 8,
     "shortName": "Barkley",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 8
+        "assists": 8,
+        "competitionId": 2
       }
     ],
-    "name": "Ross Barkley"
+    "name": "Ross Barkley",
+    "dbid": 16793,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 16789,
-    "position": "FW",
-    "number": 11,
     "shortName": "Mirallas",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Kevin Mirallas"
+    "name": "Kevin Mirallas",
+    "dbid": 16789,
+    "number": 11,
+    "position": "FW"
   },
   {
-    "dbid": 16796,
-    "position": "DF",
-    "number": 23,
     "shortName": "Coleman",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "S\u00e9amus Coleman"
+    "name": "S\u00e9amus Coleman",
+    "dbid": 16796,
+    "number": 23,
+    "position": "DF"
   },
   {
-    "dbid": 25544,
-    "position": "FW",
-    "number": 19,
     "shortName": "Valencia",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Enner Valencia"
+    "name": "Enner Valencia",
+    "dbid": 25544,
+    "number": 19,
+    "position": "FW"
   },
   {
-    "dbid": 16784,
-    "position": "DF",
-    "number": 6,
     "shortName": "Jagielka",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Phil Jagielka"
+    "name": "Phil Jagielka",
+    "dbid": 16784,
+    "number": 6,
+    "position": "DF"
   },
   {
-    "dbid": 16781,
-    "position": "DF",
-    "number": 3,
     "shortName": "Baines",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Leighton Baines"
+    "name": "Leighton Baines",
+    "dbid": 16781,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 67344,
-    "position": "MF",
-    "number": 26,
     "shortName": "Davies",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Tom Davies"
+    "name": "Tom Davies",
+    "dbid": 67344,
+    "number": 26,
+    "position": "MF"
   },
   {
-    "dbid": 17185,
-    "position": "MF",
-    "number": 18,
     "shortName": "Barry",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Gareth Barry"
+    "name": "Gareth Barry",
+    "dbid": 17185,
+    "number": 18,
+    "position": "MF"
   },
   {
-    "dbid": 16867,
-    "position": "FW",
-    "number": 14,
     "shortName": "Bolasie",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Yannick Bolasie"
+    "name": "Yannick Bolasie",
+    "dbid": 16867,
+    "number": 14,
+    "position": "FW"
   },
   {
-    "dbid": 17274,
-    "position": "DF",
-    "number": 5,
     "shortName": "Williams",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Ashley Williams"
+    "name": "Ashley Williams",
+    "dbid": 17274,
+    "number": 5,
+    "position": "DF"
   },
   {
-    "dbid": 23473,
-    "position": "MF",
-    "number": 17,
     "shortName": "Gueye",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Idrissa Gueye"
+    "name": "Idrissa Gueye",
+    "dbid": 23473,
+    "number": 17,
+    "position": "MF"
   },
   {
-    "dbid": 17360,
-    "position": "MF",
-    "number": 16,
     "shortName": "McCarthy",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "James McCarthy"
+    "name": "James McCarthy",
+    "dbid": 17360,
+    "number": 16,
+    "position": "MF"
   },
   {
-    "dbid": 59026,
-    "position": "FW",
-    "number": 31,
     "shortName": "Lookman",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Ademola Lookman"
+    "name": "Ademola Lookman",
+    "dbid": 59026,
+    "number": 31,
+    "position": "FW"
   },
   {
-    "dbid": 16810,
-    "position": "DF",
-    "number": 38,
     "shortName": "Pennington",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Matthew Pennington"
+    "name": "Matthew Pennington",
+    "dbid": 16810,
+    "number": 38,
+    "position": "DF"
   },
   {
-    "dbid": 22123,
-    "position": "FW",
-    "number": 29,
     "shortName": "Calvert-Lewin",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Dominic Calvert-Lewin"
+    "name": "Dominic Calvert-Lewin",
+    "dbid": 22123,
+    "number": 29,
+    "position": "FW"
   },
   {
-    "dbid": 17224,
-    "position": "MF",
-    "number": 2,
     "shortName": "Schneiderlin",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Morgan Schneiderlin"
+    "name": "Morgan Schneiderlin",
+    "dbid": 17224,
+    "number": 2,
+    "position": "MF"
   },
   {
-    "dbid": 16779,
-    "position": "GK",
-    "number": 1,
     "shortName": "Robles",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Joel Robles"
+    "name": "Joel Robles",
+    "dbid": 16779,
+    "number": 1,
+    "position": "GK"
   },
   {
-    "dbid": 34456,
-    "position": "DF",
-    "number": 30,
     "shortName": "Holgate",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Mason Holgate"
+    "name": "Mason Holgate",
+    "dbid": 34456,
+    "number": 30,
+    "position": "DF"
   },
   {
-    "dbid": 38828,
-    "position": "DF",
-    "number": 25,
     "shortName": "Funes Mori",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Ramiro Funes Mori"
+    "name": "Ramiro Funes Mori",
+    "dbid": 38828,
+    "number": 25,
+    "position": "DF"
   },
   {
-    "dbid": 17391,
-    "position": "MF",
-    "number": 12,
     "shortName": "Lennon",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Aaron Lennon"
+    "name": "Aaron Lennon",
+    "dbid": 17391,
+    "number": 12,
+    "position": "MF"
   }
 ]

@@ -1,257 +1,257 @@
 [
   {
-    "dbid": 18853,
-    "position": "FW",
-    "number": 10,
     "shortName": "Kane",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 20,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 5
+        "assists": 5,
+        "competitionId": 2
       }
     ],
-    "name": "Harry Kane"
+    "name": "Harry Kane",
+    "dbid": 18853,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 21720,
-    "position": "MF",
-    "number": 20,
     "shortName": "Alli",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 16,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Dele Alli"
+    "name": "Dele Alli",
+    "dbid": 21720,
+    "number": 20,
+    "position": "MF"
   },
   {
-    "dbid": 18298,
-    "position": "FW",
-    "number": 7,
     "shortName": "Son",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 12,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Heung-Min Son"
+    "name": "Heung-Min Son",
+    "dbid": 18298,
+    "number": 7,
+    "position": "FW"
   },
   {
-    "dbid": 18026,
-    "position": "MF",
-    "number": 23,
     "shortName": "Eriksen",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 13
+        "assists": 13,
+        "competitionId": 2
       }
     ],
-    "name": "Christian Eriksen"
+    "name": "Christian Eriksen",
+    "dbid": 18026,
+    "number": 23,
+    "position": "MF"
   },
   {
-    "dbid": 17387,
-    "position": "DF",
-    "number": 3,
     "shortName": "Rose",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Danny Rose"
+    "name": "Danny Rose",
+    "dbid": 17387,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 52654,
-    "position": "FW",
-    "number": 9,
     "shortName": "Janssen",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Vincent Janssen"
+    "name": "Vincent Janssen",
+    "dbid": 52654,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 20939,
-    "position": "MF",
-    "number": 15,
     "shortName": "Dier",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Eric Dier"
+    "name": "Eric Dier",
+    "dbid": 20939,
+    "number": 15,
+    "position": "MF"
   },
   {
-    "dbid": 17246,
-    "position": "MF",
-    "number": 12,
     "shortName": "Wanyama",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Victor Wanyama"
+    "name": "Victor Wanyama",
+    "dbid": 17246,
+    "number": 12,
+    "position": "MF"
   },
   {
-    "dbid": 17744,
-    "position": "MF",
-    "number": 11,
     "shortName": "Lamela",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "\u00c9rik Lamela"
+    "name": "\u00c9rik Lamela",
+    "dbid": 17744,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 17397,
-    "position": "MF",
-    "number": 19,
     "shortName": "Demb\u00e9l\u00e9",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Mousa Demb\u00e9l\u00e9"
+    "name": "Mousa Demb\u00e9l\u00e9",
+    "dbid": 17397,
+    "number": 19,
+    "position": "MF"
   },
   {
-    "dbid": 33994,
-    "position": "MF",
-    "number": 29,
     "shortName": "Winks",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Harry Winks"
+    "name": "Harry Winks",
+    "dbid": 33994,
+    "number": 29,
+    "position": "MF"
   },
   {
-    "dbid": 17403,
-    "position": "DF",
-    "number": 2,
     "shortName": "Walker",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Kyle Walker"
+    "name": "Kyle Walker",
+    "dbid": 17403,
+    "number": 2,
+    "position": "DF"
   },
   {
-    "dbid": 17440,
-    "position": "MF",
-    "number": 17,
     "shortName": "Sissoko",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Moussa Sissoko"
+    "name": "Moussa Sissoko",
+    "dbid": 17440,
+    "number": 17,
+    "position": "MF"
   },
   {
-    "dbid": 19775,
-    "position": "DF",
-    "number": 16,
     "shortName": "Trippier",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Kieran Trippier"
+    "name": "Kieran Trippier",
+    "dbid": 19775,
+    "number": 16,
+    "position": "DF"
   },
   {
-    "dbid": 17296,
-    "position": "DF",
-    "number": 33,
     "shortName": "Davies",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Ben Davies"
+    "name": "Ben Davies",
+    "dbid": 17296,
+    "number": 33,
+    "position": "DF"
   }
 ]

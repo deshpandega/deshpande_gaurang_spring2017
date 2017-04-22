@@ -1,274 +1,274 @@
 [
   {
-    "dbid": 21376,
-    "position": "FW",
-    "number": 10,
     "shortName": "Austin",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Charlie Austin"
+    "name": "Charlie Austin",
+    "dbid": 21376,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 17655,
-    "position": "MF",
-    "number": 22,
     "shortName": "Redmond",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Nathan Redmond"
+    "name": "Nathan Redmond",
+    "dbid": 17655,
+    "number": 22,
+    "position": "MF"
   },
   {
-    "dbid": 17233,
-    "position": "MF",
-    "number": 16,
     "shortName": "Ward-Prowse",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "James Ward-Prowse"
+    "name": "James Ward-Prowse",
+    "dbid": 17233,
+    "number": 16,
+    "position": "MF"
   },
   {
-    "dbid": 17229,
-    "position": "FW",
-    "number": 9,
     "shortName": "Rodriguez",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jay Rodriguez"
+    "name": "Jay Rodriguez",
+    "dbid": 17229,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 23135,
-    "position": "FW",
-    "number": 20,
     "shortName": "Gabbiadini",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Manolo Gabbiadini"
+    "name": "Manolo Gabbiadini",
+    "dbid": 23135,
+    "number": 20,
+    "position": "FW"
   },
   {
-    "dbid": 18703,
-    "position": "MF",
-    "number": 11,
     "shortName": "Tadi\u0107",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Du\u0161an Tadi\u0107"
+    "name": "Du\u0161an Tadi\u0107",
+    "dbid": 18703,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 17090,
-    "position": "FW",
-    "number": 7,
     "shortName": "Long",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Shane Long"
+    "name": "Shane Long",
+    "dbid": 17090,
+    "number": 7,
+    "position": "FW"
   },
   {
-    "dbid": 16994,
-    "position": "DF",
-    "number": 21,
     "shortName": "Bertrand",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Ryan Bertrand"
+    "name": "Ryan Bertrand",
+    "dbid": 16994,
+    "number": 21,
+    "position": "DF"
   },
   {
-    "dbid": 19491,
-    "position": "MF",
-    "number": 4,
     "shortName": "Clasie",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jordy Clasie"
+    "name": "Jordy Clasie",
+    "dbid": 19491,
+    "number": 4,
+    "position": "MF"
   },
   {
-    "dbid": 17223,
-    "position": "DF",
-    "number": 3,
     "shortName": "Yoshida",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Maya Yoshida"
+    "name": "Maya Yoshida",
+    "dbid": 17223,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 36462,
-    "position": "MF",
-    "number": 19,
     "shortName": "Boufal",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Sofiane Boufal"
+    "name": "Sofiane Boufal",
+    "dbid": 36462,
+    "number": 19,
+    "position": "MF"
   },
   {
-    "dbid": 17329,
-    "position": "DF",
-    "number": 17,
     "shortName": "van Dijk",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Virgil van Dijk"
+    "name": "Virgil van Dijk",
+    "dbid": 17329,
+    "number": 17,
+    "position": "DF"
   },
   {
-    "dbid": 17228,
-    "position": "MF",
-    "number": 8,
     "shortName": "S. Davis",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Steven Davis"
+    "name": "Steven Davis",
+    "dbid": 17228,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 19154,
-    "position": "DF",
-    "number": 2,
     "shortName": "Cedric",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "C\u00e9dric Soares"
+    "name": "C\u00e9dric Soares",
+    "dbid": 19154,
+    "number": 2,
+    "position": "DF"
   },
   {
-    "dbid": 73015,
-    "position": "MF",
-    "number": 39,
     "shortName": "Sims",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Joshua Sims"
+    "name": "Joshua Sims",
+    "dbid": 73015,
+    "number": 39,
+    "position": "MF"
   },
   {
-    "dbid": 17239,
-    "position": "DF",
-    "number": 24,
     "shortName": "Stephens",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jack Stephens"
+    "name": "Jack Stephens",
+    "dbid": 17239,
+    "number": 24,
+    "position": "DF"
   }
 ]

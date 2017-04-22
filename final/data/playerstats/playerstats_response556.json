@@ -1,257 +1,257 @@
 [
   {
-    "dbid": 17177,
-    "position": "FW",
-    "number": 10,
     "shortName": "Negredo",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 8,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "\u00c1lvaro Negredo"
+    "name": "\u00c1lvaro Negredo",
+    "dbid": 17177,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 23832,
-    "position": "FW",
-    "number": 18,
     "shortName": "Stuani",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Cristhian Stuani"
+    "name": "Cristhian Stuani",
+    "dbid": 23832,
+    "number": 18,
+    "position": "FW"
   },
   {
-    "dbid": 32395,
-    "position": "MF",
-    "number": 14,
     "shortName": "de Roon",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Marten de Roon"
+    "name": "Marten de Roon",
+    "dbid": 32395,
+    "number": 14,
+    "position": "MF"
   },
   {
-    "dbid": 17230,
-    "position": "MF",
-    "number": 21,
     "shortName": "Ram\u00edrez",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Gast\u00f3n Ram\u00edrez"
+    "name": "Gast\u00f3n Ram\u00edrez",
+    "dbid": 17230,
+    "number": 21,
+    "position": "MF"
   },
   {
-    "dbid": 17016,
-    "position": "MF",
-    "number": 19,
     "shortName": "Downing",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Stewart Downing"
+    "name": "Stewart Downing",
+    "dbid": 17016,
+    "number": 19,
+    "position": "MF"
   },
   {
-    "dbid": 21533,
-    "position": "DF",
-    "number": 6,
     "shortName": "Gibson",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Ben Gibson"
+    "name": "Ben Gibson",
+    "dbid": 21533,
+    "number": 6,
+    "position": "DF"
   },
   {
-    "dbid": 21521,
-    "position": "MF",
-    "number": 7,
     "shortName": "Leadbitter",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Grant Leadbitter"
+    "name": "Grant Leadbitter",
+    "dbid": 21521,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 17657,
-    "position": "DF",
-    "number": 4,
     "shortName": "Ayala",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Daniel Ayala"
+    "name": "Daniel Ayala",
+    "dbid": 17657,
+    "number": 4,
+    "position": "DF"
   },
   {
-    "dbid": 21116,
-    "position": "FW",
-    "number": 29,
     "shortName": "Gestede",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Rudy Gestede"
+    "name": "Rudy Gestede",
+    "dbid": 21116,
+    "number": 29,
+    "position": "FW"
   },
   {
-    "dbid": 18137,
-    "position": "FW",
-    "number": 11,
     "shortName": "Fischer",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Viktor Fischer"
+    "name": "Viktor Fischer",
+    "dbid": 18137,
+    "number": 11,
+    "position": "FW"
   },
   {
-    "dbid": 36075,
-    "position": "FW",
-    "number": 37,
     "shortName": "Traor\u00e9",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Adama Traor\u00e9"
+    "name": "Adama Traor\u00e9",
+    "dbid": 36075,
+    "number": 37,
+    "position": "FW"
   },
   {
-    "dbid": 21959,
-    "position": "MF",
-    "number": 34,
     "shortName": "Forshaw",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Adam Forshaw"
+    "name": "Adam Forshaw",
+    "dbid": 21959,
+    "number": 34,
+    "position": "MF"
   },
   {
-    "dbid": 21551,
-    "position": "MF",
-    "number": 8,
     "shortName": "Clayton",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Adam Clayton"
+    "name": "Adam Clayton",
+    "dbid": 21551,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 17240,
-    "position": "DF",
-    "number": 25,
     "shortName": "Chambers",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Calum Chambers"
+    "name": "Calum Chambers",
+    "dbid": 17240,
+    "number": 25,
+    "position": "DF"
   },
   {
-    "dbid": 21518,
-    "position": "DF",
-    "number": 3,
     "shortName": "Friend",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "George Friend"
+    "name": "George Friend",
+    "dbid": 21518,
+    "number": 3,
+    "position": "DF"
   }
 ]

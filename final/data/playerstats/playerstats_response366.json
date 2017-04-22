@@ -1,342 +1,342 @@
 [
   {
-    "dbid": 17640,
-    "position": "MF",
-    "number": 11,
     "shortName": "Snodgrass",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Robert Snodgrass"
+    "name": "Robert Snodgrass",
+    "dbid": 17640,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 25369,
-    "position": "FW",
-    "number": 9,
     "shortName": "Hern\u00e1ndez",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Abel Hern\u00e1ndez"
+    "name": "Abel Hern\u00e1ndez",
+    "dbid": 25369,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 25814,
-    "position": "FW",
-    "number": 24,
     "shortName": "Niasse",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Oumar Niasse"
+    "name": "Oumar Niasse",
+    "dbid": 25814,
+    "number": 24,
+    "position": "FW"
   },
   {
-    "dbid": 17398,
-    "position": "DF",
-    "number": 21,
     "shortName": "Dawson",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Michael Dawson"
+    "name": "Michael Dawson",
+    "dbid": 17398,
+    "number": 21,
+    "position": "DF"
   },
   {
-    "dbid": 22101,
-    "position": "DF",
-    "number": 5,
     "shortName": "Maguire",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Harry Maguire"
+    "name": "Harry Maguire",
+    "dbid": 22101,
+    "number": 5,
+    "position": "DF"
   },
   {
-    "dbid": 19675,
-    "position": "DF",
-    "number": 13,
     "shortName": "Ranocchia",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Andrea Ranocchia"
+    "name": "Andrea Ranocchia",
+    "dbid": 19675,
+    "number": 13,
+    "position": "DF"
   },
   {
-    "dbid": 32029,
-    "position": "FW",
-    "number": 20,
     "shortName": "Diomand\u00e9",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Adama Diomand\u00e9"
+    "name": "Adama Diomand\u00e9",
+    "dbid": 32029,
+    "number": 20,
+    "position": "FW"
   },
   {
-    "dbid": 17366,
-    "position": "MF",
-    "number": 15,
     "shortName": "Maloney",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Shaun Maloney"
+    "name": "Shaun Maloney",
+    "dbid": 17366,
+    "number": 15,
+    "position": "MF"
   },
   {
-    "dbid": 16774,
-    "position": "DF",
-    "number": 3,
     "shortName": "Robertson",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Andrew Robertson"
+    "name": "Andrew Robertson",
+    "dbid": 16774,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 22627,
-    "position": "MF",
-    "number": 11,
     "shortName": "Clucas",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Sam Clucas"
+    "name": "Sam Clucas",
+    "dbid": 22627,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 17404,
-    "position": "MF",
-    "number": 8,
     "shortName": "Livermore",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jake Livermore"
+    "name": "Jake Livermore",
+    "dbid": 17404,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 17681,
-    "position": "MF",
-    "number": 7,
     "shortName": "Meyler",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "David Meyler"
+    "name": "David Meyler",
+    "dbid": 17681,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 18344,
-    "position": "MF",
-    "number": 50,
     "shortName": "Markovi\u0107",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Lazar Markovi\u0107"
+    "name": "Lazar Markovi\u0107",
+    "dbid": 18344,
+    "number": 50,
+    "position": "MF"
   },
   {
-    "dbid": 17390,
-    "position": "MF",
-    "number": 8,
     "shortName": "Huddlestone",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Tom Huddlestone"
+    "name": "Tom Huddlestone",
+    "dbid": 17390,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 22768,
-    "position": "MF",
-    "number": 10,
     "shortName": "N'Diaye",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Alfred N'Diaye"
+    "name": "Alfred N'Diaye",
+    "dbid": 22768,
+    "number": 10,
+    "position": "MF"
   },
   {
-    "dbid": 22131,
-    "position": "MF",
-    "number": 25,
     "shortName": "Mason",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Ryan Mason"
+    "name": "Ryan Mason",
+    "dbid": 22131,
+    "number": 25,
+    "position": "MF"
   },
   {
-    "dbid": 24878,
-    "position": "FW",
-    "number": 17,
     "shortName": "Grosicki",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Kamil Grosicki"
+    "name": "Kamil Grosicki",
+    "dbid": 24878,
+    "number": 17,
+    "position": "FW"
   },
   {
-    "dbid": 17677,
-    "position": "MF",
-    "number": 27,
     "shortName": "Elmohamady",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Ahmed Elmohamady"
+    "name": "Ahmed Elmohamady",
+    "dbid": 17677,
+    "number": 27,
+    "position": "MF"
   },
   {
-    "dbid": 17687,
-    "position": "DF",
-    "number": 6,
     "shortName": "Davies",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Curtis Davies"
+    "name": "Curtis Davies",
+    "dbid": 17687,
+    "number": 6,
+    "position": "DF"
   },
   {
-    "dbid": 20188,
-    "position": "FW",
-    "number": 18,
     "shortName": "Mbokani",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Dieumerci Mbokani"
+    "name": "Dieumerci Mbokani",
+    "dbid": 20188,
+    "number": 18,
+    "position": "FW"
   }
 ]

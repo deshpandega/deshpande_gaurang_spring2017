@@ -1,308 +1,308 @@
 [
   {
-    "dbid": 18523,
-    "position": "FW",
-    "number": 9,
     "shortName": "Llorente",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 11,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Fernando Llorente"
+    "name": "Fernando Llorente",
+    "dbid": 18523,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 17399,
-    "position": "MF",
-    "number": 23,
     "shortName": "Sigur\u00f0sson",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 8,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 10
+        "assists": 10,
+        "competitionId": 2
       }
     ],
-    "name": "Gylfi Sigur\u00f0sson"
+    "name": "Gylfi Sigur\u00f0sson",
+    "dbid": 17399,
+    "number": 23,
+    "position": "MF"
   },
   {
-    "dbid": 17643,
-    "position": "MF",
-    "number": 8,
     "shortName": "Fer",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Leroy Fer"
+    "name": "Leroy Fer",
+    "dbid": 17643,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 24463,
-    "position": "DF",
-    "number": 6,
     "shortName": "Mawson",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Alfie Mawson"
+    "name": "Alfie Mawson",
+    "dbid": 24463,
+    "number": 6,
+    "position": "DF"
   },
   {
-    "dbid": 17282,
-    "position": "MF",
-    "number": 15,
     "shortName": "Routledge",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Wayne Routledge"
+    "name": "Wayne Routledge",
+    "dbid": 17282,
+    "number": 15,
+    "position": "MF"
   },
   {
-    "dbid": 17649,
-    "position": "DF",
-    "number": 16,
     "shortName": "Olsson",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Martin Olsson"
+    "name": "Martin Olsson",
+    "dbid": 17649,
+    "number": 16,
+    "position": "DF"
   },
   {
-    "dbid": 18136,
-    "position": "DF",
-    "number": 5,
     "shortName": "van der Hoorn",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Mike van der Hoorn"
+    "name": "Mike van der Hoorn",
+    "dbid": 18136,
+    "number": 5,
+    "position": "DF"
   },
   {
-    "dbid": 17289,
-    "position": "DF",
-    "number": 22,
     "shortName": "Rangel",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "\u00c0ngel Rangel"
+    "name": "\u00c0ngel Rangel",
+    "dbid": 17289,
+    "number": 22,
+    "position": "DF"
   },
   {
-    "dbid": 27545,
-    "position": "FW",
-    "number": 10,
     "shortName": "Bast\u00f3n",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Borja Gonz\u00e1lez"
+    "name": "Borja Gonz\u00e1lez",
+    "dbid": 27545,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 32525,
-    "position": "FW",
-    "number": 27,
     "shortName": "Barrow",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Modou Barrow"
+    "name": "Modou Barrow",
+    "dbid": 32525,
+    "number": 27,
+    "position": "FW"
   },
   {
-    "dbid": 20476,
-    "position": "MF",
-    "number": 28,
     "shortName": "Narsingh",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Luciano Narsingh"
+    "name": "Luciano Narsingh",
+    "dbid": 20476,
+    "number": 28,
+    "position": "MF"
   },
   {
-    "dbid": 17280,
-    "position": "MF",
-    "number": 12,
     "shortName": "Dyer",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Nathan Dyer"
+    "name": "Nathan Dyer",
+    "dbid": 17280,
+    "number": 12,
+    "position": "MF"
   },
   {
-    "dbid": 17409,
-    "position": "MF",
-    "number": 42,
     "shortName": "Carroll",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Tom Carroll"
+    "name": "Tom Carroll",
+    "dbid": 17409,
+    "number": 42,
+    "position": "MF"
   },
   {
-    "dbid": 18092,
-    "position": "FW",
-    "number": 3,
     "shortName": "Ayew",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jordan Ayew"
+    "name": "Jordan Ayew",
+    "dbid": 18092,
+    "number": 3,
+    "position": "FW"
   },
   {
-    "dbid": 17731,
-    "position": "DF",
-    "number": 33,
     "shortName": "Fern\u00e1ndez",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Federico Fern\u00e1ndez"
+    "name": "Federico Fern\u00e1ndez",
+    "dbid": 17731,
+    "number": 33,
+    "position": "DF"
   },
   {
-    "dbid": 25540,
-    "position": "MF",
-    "number": 20,
     "shortName": "Montero",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jefferson Montero"
+    "name": "Jefferson Montero",
+    "dbid": 25540,
+    "number": 20,
+    "position": "MF"
   },
   {
-    "dbid": 17234,
-    "position": "MF",
-    "number": 24,
     "shortName": "Cork",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jack Cork"
+    "name": "Jack Cork",
+    "dbid": 17234,
+    "number": 24,
+    "position": "MF"
   },
   {
-    "dbid": 17272,
-    "position": "DF",
-    "number": 3,
     "shortName": "Taylor",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Neil Taylor"
+    "name": "Neil Taylor",
+    "dbid": 17272,
+    "number": 3,
+    "position": "DF"
   }
 ]

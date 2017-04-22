@@ -1,325 +1,325 @@
 [
   {
-    "dbid": 19824,
-    "position": "FW",
-    "number": 9,
     "shortName": "Deeney",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 10,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Troy Deeney"
+    "name": "Troy Deeney",
+    "dbid": 19824,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 17813,
-    "position": "MF",
-    "number": 29,
     "shortName": "Capoue",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "\u00c9tienne Capoue"
+    "name": "\u00c9tienne Capoue",
+    "dbid": 17813,
+    "number": 29,
+    "position": "MF"
   },
   {
-    "dbid": 22896,
-    "position": "FW",
-    "number": 33,
     "shortName": "Okaka",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Stefano Okaka"
+    "name": "Stefano Okaka",
+    "dbid": 22896,
+    "number": 33,
+    "position": "FW"
   },
   {
-    "dbid": 18199,
-    "position": "DF",
-    "number": 25,
     "shortName": "Holebas",
     "playerstats": [
       {
         "yellowCards": 12,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Jos\u00e9 Holebas"
+    "name": "Jos\u00e9 Holebas",
+    "dbid": 18199,
+    "number": 25,
+    "position": "DF"
   },
   {
-    "dbid": 18059,
-    "position": "FW",
-    "number": 21,
     "shortName": "Niang",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "M'Baye Niang"
+    "name": "M'Baye Niang",
+    "dbid": 18059,
+    "number": 21,
+    "position": "FW"
   },
   {
-    "dbid": 23654,
-    "position": "MF",
-    "number": 37,
     "shortName": "Pereyra",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Roberto Pereyra"
+    "name": "Roberto Pereyra",
+    "dbid": 23654,
+    "number": 37,
+    "position": "MF"
   },
   {
-    "dbid": 17388,
-    "position": "DF",
-    "number": 4,
     "shortName": "Kaboul",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Youn\u00e8s Kaboul"
+    "name": "Youn\u00e8s Kaboul",
+    "dbid": 17388,
+    "number": 4,
+    "position": "DF"
   },
   {
-    "dbid": 27892,
-    "position": "DF",
-    "number": 27,
     "shortName": "Kabasele",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Christian Kabasele"
+    "name": "Christian Kabasele",
+    "dbid": 27892,
+    "number": 27,
+    "position": "DF"
   },
   {
-    "dbid": 19306,
-    "position": "DF",
-    "number": 5,
     "shortName": "Pr\u00f6dl",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Sebastian Pr\u00f6dl"
+    "name": "Sebastian Pr\u00f6dl",
+    "dbid": 19306,
+    "number": 5,
+    "position": "DF"
   },
   {
-    "dbid": 19485,
-    "position": "DF",
-    "number": 22,
     "shortName": "Janmaat",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Daryl Janmaat"
+    "name": "Daryl Janmaat",
+    "dbid": 19485,
+    "number": 22,
+    "position": "DF"
   },
   {
-    "dbid": 23456,
-    "position": "FW",
-    "number": 24,
     "shortName": "Ighalo",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Odion Ighalo"
+    "name": "Odion Ighalo",
+    "dbid": 23456,
+    "number": 24,
+    "position": "FW"
   },
   {
-    "dbid": 18346,
-    "position": "DF",
-    "number": 3,
     "shortName": "Britos",
     "playerstats": [
       {
         "yellowCards": 10,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Miguel Britos"
+    "name": "Miguel Britos",
+    "dbid": 18346,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 18353,
-    "position": "DF",
-    "number": 18,
     "shortName": "Z\u00fa\u00f1iga",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Juan Z\u00fa\u00f1iga"
+    "name": "Juan Z\u00fa\u00f1iga",
+    "dbid": 18353,
+    "number": 18,
+    "position": "DF"
   },
   {
-    "dbid": 32148,
-    "position": "FW",
-    "number": 10,
     "shortName": "Success",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Isaac Success"
+    "name": "Isaac Success",
+    "dbid": 32148,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 24893,
-    "position": "MF",
-    "number": 16,
     "shortName": "Doucour\u00e9",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Abdoulaye Doucour\u00e9"
+    "name": "Abdoulaye Doucour\u00e9",
+    "dbid": 24893,
+    "number": 16,
+    "position": "MF"
   },
   {
-    "dbid": 18234,
-    "position": "MF",
-    "number": 7,
     "shortName": "Amrabat",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Nordin Amrabat"
+    "name": "Nordin Amrabat",
+    "dbid": 18234,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 19595,
-    "position": "DF",
-    "number": 15,
     "shortName": "Cathcart",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Craig Cathcart"
+    "name": "Craig Cathcart",
+    "dbid": 19595,
+    "number": 15,
+    "position": "DF"
   },
   {
-    "dbid": 16936,
-    "position": "MF",
-    "number": 8,
     "shortName": "Cleverley",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Tom Cleverley"
+    "name": "Tom Cleverley",
+    "dbid": 16936,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 18610,
-    "position": "MF",
-    "number": 27,
     "shortName": "Guedioura",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Adl\u00e8ne Guedioura"
+    "name": "Adl\u00e8ne Guedioura",
+    "dbid": 18610,
+    "number": 27,
+    "position": "MF"
   }
 ]

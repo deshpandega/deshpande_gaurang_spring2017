@@ -1,257 +1,257 @@
 [
   {
-    "dbid": 18031,
-    "position": "FW",
-    "number": 10,
     "shortName": "Arnautovi\u0107",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 4
+        "assists": 4,
+        "competitionId": 2
       }
     ],
-    "name": "Marko Arnautovi\u0107"
+    "name": "Marko Arnautovi\u0107",
+    "dbid": 18031,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 17019,
-    "position": "MF",
-    "number": 4,
     "shortName": "Allen",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Joe Allen"
+    "name": "Joe Allen",
+    "dbid": 17019,
+    "number": 4,
+    "position": "MF"
   },
   {
-    "dbid": 17129,
-    "position": "FW",
-    "number": 25,
     "shortName": "Crouch",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 5,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Peter Crouch"
+    "name": "Peter Crouch",
+    "dbid": 17129,
+    "number": 25,
+    "position": "FW"
   },
   {
-    "dbid": 17995,
-    "position": "MF",
-    "number": 22,
     "shortName": "Shaqiri",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Xherdan Shaqiri"
+    "name": "Xherdan Shaqiri",
+    "dbid": 17995,
+    "number": 22,
+    "position": "MF"
   },
   {
-    "dbid": 17125,
-    "position": "FW",
-    "number": 19,
     "shortName": "Walters",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Jonathan Walters"
+    "name": "Jonathan Walters",
+    "dbid": 17125,
+    "number": 19,
+    "position": "FW"
   },
   {
-    "dbid": 18141,
-    "position": "FW",
-    "number": 10,
     "shortName": "Bojan",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Bojan Krki\u0107"
+    "name": "Bojan Krki\u0107",
+    "dbid": 18141,
+    "number": 10,
+    "position": "FW"
   },
   {
-    "dbid": 17278,
-    "position": "FW",
-    "number": 12,
     "shortName": "Bony",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Wilfried Bony"
+    "name": "Wilfried Bony",
+    "dbid": 17278,
+    "number": 12,
+    "position": "FW"
   },
   {
-    "dbid": 17123,
-    "position": "MF",
-    "number": 16,
     "shortName": "Adam",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Charlie Adam"
+    "name": "Charlie Adam",
+    "dbid": 17123,
+    "number": 16,
+    "position": "MF"
   },
   {
-    "dbid": 17124,
-    "position": "DF",
-    "number": 17,
     "shortName": "Shawcross",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Ryan Shawcross"
+    "name": "Ryan Shawcross",
+    "dbid": 17124,
+    "number": 17,
+    "position": "DF"
   },
   {
-    "dbid": 19484,
-    "position": "DF",
-    "number": 15,
     "shortName": "Martins Indi",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Bruno Martins Indi"
+    "name": "Bruno Martins Indi",
+    "dbid": 19484,
+    "number": 15,
+    "position": "DF"
   },
   {
-    "dbid": 17113,
-    "position": "DF",
-    "number": 5,
     "shortName": "Muniesa",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Marc Muniesa"
+    "name": "Marc Muniesa",
+    "dbid": 17113,
+    "number": 5,
+    "position": "DF"
   },
   {
-    "dbid": 23514,
-    "position": "FW",
-    "number": 18,
     "shortName": "Diouf",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Mame Biram Diouf"
+    "name": "Mame Biram Diouf",
+    "dbid": 23514,
+    "number": 18,
+    "position": "FW"
   },
   {
-    "dbid": 17114,
-    "position": "MF",
-    "number": 6,
     "shortName": "Whelan",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Glenn Whelan"
+    "name": "Glenn Whelan",
+    "dbid": 17114,
+    "number": 6,
+    "position": "MF"
   },
   {
-    "dbid": 17111,
-    "position": "DF",
-    "number": 3,
     "shortName": "Pieters",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Erik Pieters"
+    "name": "Erik Pieters",
+    "dbid": 17111,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 49919,
-    "position": "MF",
-    "number": 32,
     "shortName": "Sobhi",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Ramadan Sobhi"
+    "name": "Ramadan Sobhi",
+    "dbid": 49919,
+    "number": 32,
+    "position": "MF"
   }
 ]

@@ -1,240 +1,240 @@
 [
   {
-    "dbid": 20665,
-    "position": "FW",
-    "number": 9,
     "shortName": "Rond\u00f3n",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Salom\u00f3n Rond\u00f3n"
+    "name": "Salom\u00f3n Rond\u00f3n",
+    "dbid": 20665,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 17098,
-    "position": "DF",
-    "number": 23,
     "shortName": "McAuley",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Gareth McAuley"
+    "name": "Gareth McAuley",
+    "dbid": 17098,
+    "number": 23,
+    "position": "DF"
   },
   {
-    "dbid": 17411,
-    "position": "MF",
-    "number": 22,
     "shortName": "Chadli",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 5,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 5
+        "assists": 5,
+        "competitionId": 2
       }
     ],
-    "name": "Nacer Chadli"
+    "name": "Nacer Chadli",
+    "dbid": 17411,
+    "number": 22,
+    "position": "MF"
   },
   {
-    "dbid": 17088,
-    "position": "MF",
-    "number": 7,
     "shortName": "Morrison",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 5,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "James Morrison"
+    "name": "James Morrison",
+    "dbid": 17088,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 21374,
-    "position": "MF",
-    "number": 10,
     "shortName": "Phillips",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 8
+        "assists": 8,
+        "competitionId": 2
       }
     ],
-    "name": "Matt Phillips"
+    "name": "Matt Phillips",
+    "dbid": 21374,
+    "number": 10,
+    "position": "MF"
   },
   {
-    "dbid": 17091,
-    "position": "MF",
-    "number": 11,
     "shortName": "Brunt",
     "playerstats": [
       {
         "yellowCards": 5,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Chris Brunt"
+    "name": "Chris Brunt",
+    "dbid": 17091,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 17100,
-    "position": "DF",
-    "number": 25,
     "shortName": "Dawson",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Craig Dawson"
+    "name": "Craig Dawson",
+    "dbid": 17100,
+    "number": 25,
+    "position": "DF"
   },
   {
-    "dbid": 17792,
-    "position": "FW",
-    "number": 4,
     "shortName": "Robson-Kanu",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Hal Robson-Kanu"
+    "name": "Hal Robson-Kanu",
+    "dbid": 17792,
+    "number": 4,
+    "position": "FW"
   },
   {
-    "dbid": 16937,
-    "position": "MF",
-    "number": 24,
     "shortName": "Fletcher",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Darren Fletcher"
+    "name": "Darren Fletcher",
+    "dbid": 16937,
+    "number": 24,
+    "position": "MF"
   },
   {
-    "dbid": 17074,
-    "position": "MF",
-    "number": 14,
     "shortName": "McClean",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "James McClean"
+    "name": "James McClean",
+    "dbid": 17074,
+    "number": 14,
+    "position": "MF"
   },
   {
-    "dbid": 16921,
-    "position": "DF",
-    "number": 6,
     "shortName": "Evans",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jonny Evans"
+    "name": "Jonny Evans",
+    "dbid": 16921,
+    "number": 6,
+    "position": "DF"
   },
   {
-    "dbid": 17070,
-    "position": "MF",
-    "number": 12,
     "shortName": "Gardner",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Craig Gardner"
+    "name": "Craig Gardner",
+    "dbid": 17070,
+    "number": 12,
+    "position": "MF"
   },
   {
-    "dbid": 61372,
-    "position": "FW",
-    "number": 45,
     "shortName": "Leko",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Jonathan Leko"
+    "name": "Jonathan Leko",
+    "dbid": 61372,
+    "number": 45,
+    "position": "FW"
   },
   {
-    "dbid": 23453,
-    "position": "DF",
-    "number": 2,
     "shortName": "Nyom",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Allan Nyom"
+    "name": "Allan Nyom",
+    "dbid": 23453,
+    "number": 2,
+    "position": "DF"
   }
 ]

@@ -1,325 +1,325 @@
 [
   {
-    "dbid": 21496,
-    "position": "MF",
-    "number": 30,
     "shortName": "Antonio",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 9,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Michail Antonio"
+    "name": "Michail Antonio",
+    "dbid": 21496,
+    "number": 30,
+    "position": "MF"
   },
   {
-    "dbid": 54164,
-    "position": "MF",
-    "number": 10,
     "shortName": "Lanzini",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Manuel Lanzini"
+    "name": "Manuel Lanzini",
+    "dbid": 54164,
+    "number": 10,
+    "position": "MF"
   },
   {
-    "dbid": 17498,
-    "position": "FW",
-    "number": 9,
     "shortName": "Carroll",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Andy Carroll"
+    "name": "Andy Carroll",
+    "dbid": 17498,
+    "number": 9,
+    "position": "FW"
   },
   {
-    "dbid": 18091,
-    "position": "FW",
-    "number": 20,
     "shortName": "Ayew",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 5,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Andr\u00e9 Ayew"
+    "name": "Andr\u00e9 Ayew",
+    "dbid": 18091,
+    "number": 20,
+    "position": "FW"
   },
   {
-    "dbid": 17504,
-    "position": "MF",
-    "number": 16,
     "shortName": "Noble",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Mark Noble"
+    "name": "Mark Noble",
+    "dbid": 17504,
+    "number": 16,
+    "position": "MF"
   },
   {
-    "dbid": 18097,
-    "position": "MF",
-    "number": 11,
     "shortName": "Payet",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Dimitri Payet"
+    "name": "Dimitri Payet",
+    "dbid": 18097,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 20671,
-    "position": "MF",
-    "number": 7,
     "shortName": "Feghouli",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Sofiane Feghouli"
+    "name": "Sofiane Feghouli",
+    "dbid": 20671,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 17493,
-    "position": "DF",
-    "number": 2,
     "shortName": "Reid",
     "playerstats": [
       {
         "yellowCards": 9,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Winston Reid"
+    "name": "Winston Reid",
+    "dbid": 17493,
+    "number": 2,
+    "position": "DF"
   },
   {
-    "dbid": 17507,
-    "position": "DF",
-    "number": 19,
     "shortName": "Collins",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 2,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "James Collins"
+    "name": "James Collins",
+    "dbid": 17507,
+    "number": 19,
+    "position": "DF"
   },
   {
-    "dbid": 23138,
-    "position": "MF",
-    "number": 14,
     "shortName": "Obiang",
     "playerstats": [
       {
         "yellowCards": 7,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Pedro Obiang"
+    "name": "Pedro Obiang",
+    "dbid": 23138,
+    "number": 14,
+    "position": "MF"
   },
   {
-    "dbid": 18277,
-    "position": "MF",
-    "number": 8,
     "shortName": "Kouyat\u00e9",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Cheikhou Kouyat\u00e9"
+    "name": "Cheikhou Kouyat\u00e9",
+    "dbid": 18277,
+    "number": 8,
+    "position": "MF"
   },
   {
-    "dbid": 38443,
-    "position": "FW",
-    "number": 28,
     "shortName": "Calleri",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Jonathan Calleri"
+    "name": "Jonathan Calleri",
+    "dbid": 38443,
+    "number": 28,
+    "position": "FW"
   },
   {
-    "dbid": 25815,
-    "position": "FW",
-    "number": 15,
     "shortName": "Sakho",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Diafra Sakho"
+    "name": "Diafra Sakho",
+    "dbid": 25815,
+    "number": 15,
+    "position": "FW"
   },
   {
-    "dbid": 21415,
-    "position": "DF",
-    "number": 3,
     "shortName": "Cresswell",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Aaron Cresswell"
+    "name": "Aaron Cresswell",
+    "dbid": 21415,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 17640,
-    "position": "MF",
-    "number": 11,
     "shortName": "Snodgrass",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Robert Snodgrass"
+    "name": "Robert Snodgrass",
+    "dbid": 17640,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 19129,
-    "position": "FW",
-    "number": 17,
     "shortName": "T\u00f6re",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "G\u00f6khan T\u00f6re"
+    "name": "G\u00f6khan T\u00f6re",
+    "dbid": 19129,
+    "number": 17,
+    "position": "FW"
   },
   {
-    "dbid": 24901,
-    "position": "DF",
-    "number": 26,
     "shortName": "Masuaku",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Arthur Masuaku"
+    "name": "Arthur Masuaku",
+    "dbid": 24901,
+    "number": 26,
+    "position": "DF"
   },
   {
-    "dbid": 18787,
-    "position": "DF",
-    "number": 22,
     "shortName": "Byram",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Sam Byram"
+    "name": "Sam Byram",
+    "dbid": 18787,
+    "number": 22,
+    "position": "DF"
   },
   {
-    "dbid": 25210,
-    "position": "MF",
-    "number": 4,
     "shortName": "Nordtveit",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "H\u00e5vard Nordtveit"
+    "name": "H\u00e5vard Nordtveit",
+    "dbid": 25210,
+    "number": 4,
+    "position": "MF"
   }
 ]

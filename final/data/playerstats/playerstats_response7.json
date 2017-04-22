@@ -1,257 +1,257 @@
 [
   {
-    "dbid": 17967,
-    "position": "FW",
-    "number": 19,
     "shortName": "Costa",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 17,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 5
+        "assists": 5,
+        "competitionId": 2
       }
     ],
-    "name": "Diego Costa"
+    "name": "Diego Costa",
+    "dbid": 17967,
+    "number": 19,
+    "position": "FW"
   },
   {
-    "dbid": 16989,
-    "position": "MF",
-    "number": 10,
     "shortName": "Hazard",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 14,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Eden Hazard"
+    "name": "Eden Hazard",
+    "dbid": 16989,
+    "number": 10,
+    "position": "MF"
   },
   {
-    "dbid": 17935,
-    "position": "MF",
-    "number": 11,
     "shortName": "Pedro",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 7,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 6
+        "assists": 6,
+        "competitionId": 2
       }
     ],
-    "name": "Pedro Rodr\u00edguez"
+    "name": "Pedro Rodr\u00edguez",
+    "dbid": 17935,
+    "number": 11,
+    "position": "MF"
   },
   {
-    "dbid": 17981,
-    "position": "MF",
-    "number": 22,
     "shortName": "Willian",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 6,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Willian"
+    "name": "Willian",
+    "dbid": 17981,
+    "number": 22,
+    "position": "MF"
   },
   {
-    "dbid": 20011,
-    "position": "DF",
-    "number": 3,
     "shortName": "Alonso",
     "playerstats": [
       {
         "yellowCards": 2,
         "goals": 5,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2
+        "assists": 2,
+        "competitionId": 2
       }
     ],
-    "name": "Marcos Alonso"
+    "name": "Marcos Alonso",
+    "dbid": 20011,
+    "number": 3,
+    "position": "DF"
   },
   {
-    "dbid": 17932,
-    "position": "MF",
-    "number": 4,
     "shortName": "F\u00e0bregas",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 7
+        "assists": 7,
+        "competitionId": 2
       }
     ],
-    "name": "Cesc F\u00e0bregas"
+    "name": "Cesc F\u00e0bregas",
+    "dbid": 17932,
+    "number": 4,
+    "position": "MF"
   },
   {
-    "dbid": 16990,
-    "position": "DF",
-    "number": 24,
     "shortName": "Cahill",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 4,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "Gary Cahill"
+    "name": "Gary Cahill",
+    "dbid": 16990,
+    "number": 24,
+    "position": "DF"
   },
   {
-    "dbid": 16987,
-    "position": "MF",
-    "number": 15,
     "shortName": "Moses",
     "playerstats": [
       {
         "yellowCards": 4,
         "goals": 3,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "Victor Moses"
+    "name": "Victor Moses",
+    "dbid": 16987,
+    "number": 15,
+    "position": "MF"
   },
   {
-    "dbid": 18926,
-    "position": "FW",
-    "number": 23,
     "shortName": "Batshuayi",
     "playerstats": [
       {
         "yellowCards": 0,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Michy Batshuayi"
+    "name": "Michy Batshuayi",
+    "dbid": 18926,
+    "number": 23,
+    "position": "FW"
   },
   {
-    "dbid": 27633,
-    "position": "MF",
-    "number": 7,
     "shortName": "Kant\u00e9",
     "playerstats": [
       {
         "yellowCards": 8,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "N'Golo Kant\u00e9"
+    "name": "N'Golo Kant\u00e9",
+    "dbid": 27633,
+    "number": 7,
+    "position": "MF"
   },
   {
-    "dbid": 16979,
-    "position": "DF",
-    "number": 30,
     "shortName": "Luiz",
     "playerstats": [
       {
         "yellowCards": 6,
         "goals": 1,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0
+        "assists": 0,
+        "competitionId": 2
       }
     ],
-    "name": "David Luiz"
+    "name": "David Luiz",
+    "dbid": 16979,
+    "number": 30,
+    "position": "DF"
   },
   {
-    "dbid": 18335,
-    "position": "MF",
-    "number": 21,
     "shortName": "Mati\u0107",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 5
+        "assists": 5,
+        "competitionId": 2
       }
     ],
-    "name": "Nemanja Mati\u0107"
+    "name": "Nemanja Mati\u0107",
+    "dbid": 18335,
+    "number": 21,
+    "position": "MF"
   },
   {
-    "dbid": 16992,
-    "position": "DF",
-    "number": 28,
     "shortName": "Azpilicueta",
     "playerstats": [
       {
         "yellowCards": 3,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3
+        "assists": 3,
+        "competitionId": 2
       }
     ],
-    "name": "C\u00e9sar Azpilicueta"
+    "name": "C\u00e9sar Azpilicueta",
+    "dbid": 16992,
+    "number": 28,
+    "position": "DF"
   },
   {
-    "dbid": 18484,
-    "position": "MF",
-    "number": 29,
     "shortName": "Chalobah",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Nathaniel Chalobah"
+    "name": "Nathaniel Chalobah",
+    "dbid": 18484,
+    "number": 29,
+    "position": "MF"
   },
   {
-    "dbid": 16985,
-    "position": "MF",
-    "number": null,
     "shortName": "Oscar",
     "playerstats": [
       {
         "yellowCards": 1,
         "goals": 0,
-        "competitionId": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1
+        "assists": 1,
+        "competitionId": 2
       }
     ],
-    "name": "Oscar"
+    "name": "Oscar",
+    "dbid": 16985,
+    "number": null,
+    "position": "MF"
   }
 ]
