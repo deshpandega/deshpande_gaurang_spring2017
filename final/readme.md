@@ -19,11 +19,15 @@ Collecting Data
 Wrote *.ipynb* files to gather data about English Premier League. 
 **```request```** module is used to fetch data, **```current_dir = os.path.dirname('__file__')```** is used to get current folder's relative path. 
 ```DataCollection.ipynb``` file is used to collect data about premier league from 3 different APIs providers. Two of them (The Sports DB and Fantasy Premier League) don't require any API key whereas the third one (Crowdscores) does require the api key. To get the API key, go to [this](https://customer.fastestlivescores.com/login) link and register. I have registered so I will send en email to Hari, TJ and Spandan my API key as backup.
+
 APIs listed under **The Sports DB** are used to gather league details, team details and match details. 
+
 APIs listed under **Crowdscores** are used to gather player details like goals scored, assists, yellow and red cards awarded to players. 
+
 APIs listed under **Fantasy Premier League** are used to gather team details, more player stats like goals saved, penalties saved, penalties missed, own goals conceded, goals conceded, minutes played, player position, etc. 
 
 You can find the documentation for the APIs:
+
 [The Sports DB](http://www.thesportsdb.com/forum/viewtopic.php?f=7&t=1799&sid=e0d2edaf455206535b85451dece00038)
 
 [Crowdscores](https://docs.crowdscores.com/#page:competitions,header:competitions-competitions)
