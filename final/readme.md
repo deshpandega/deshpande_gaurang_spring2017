@@ -39,19 +39,19 @@ Reddit link for Fantasy Premier League [API](https://www.reddit.com/r/FantasyPL/
 > 
 > - Exported the crowdscore api key to bash terminal and read as an *environment variable*. 
 > - Used a list to store the api names which will be used to fetch data. The list of apis used are:
-> **From Sports DB:**
+> - **From Sports DB:**
 >  `search_all_leagues` to get league id for English Premier League
 >  `lookup_all_teams`  to get list of team ids and details of all teams according to league id sent as input parameter
 >  `lookup_all_players` to get details of all players according to team ids sent as input parameter. All team ids are stored in a list and the api is called in a for loop for each team id as input parameter and a single list of all players is maintained. Player details for each team are extended in a single list.
 >  `eventsseason` to get details about each match in EPL according to league id retrived above and current season going on. If the current month is *July or before*, the season is *last year - current year*. If current month is *August or after*, season is *this year - next year*
 >  
->  **From Crowdscores.com**
+> - **From Crowdscores.com**
 >  `teams` to get list of team ids with api key and competition id as input parameters, (competition id 2 for EPL)
 >  `seasons` to get season id with api key as input parameter
 >  `rounds` to get round id with api key and competition id as input parameters, (competition id 2 for EPL)
 >  `playerstats` to get player stats (goals, assists, yellow cards, red cards till now for current season) with api key, team id, round id, competition id, season id. The api is called in a for loop for each team id and response for players of each team are stored in separate file with name playerstats_response_< team_id >.json
 >  
->  **From Fantasy Premier League**
+> - **From Fantasy Premier League**
 >  `bootstrap-static` to get list of all players, all teams, player positions and more player stats like saves, penalties saved, own goals scored, clean sheets, minutes played, penalties missed, goals conceded, etc.
 > - Wrote functions to create folder structure as follows:
 > ```data/<api_name>/<api_name>_response.json``` except playerstats as mentioned above where I am using team id as well with the api name. Used relative path to create folders and to store json response in json file
