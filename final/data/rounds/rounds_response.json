@@ -1,24 +1,24 @@
 [
   {
-    "hasLeagueTable": true,
     "name": "Premier League",
-    "competition": {
-      "flagUrl": "https://static.crowdscores.com/flags/england.png",
-      "dbid": 2,
-      "name": "Premier League",
-      "ordering": 6400
-    },
-    "active": true,
+    "hasLeagueTable": true,
+    "hasGoalStats": true,
     "fullName": "Premier League",
-    "hasAssistStats": true,
+    "active": true,
     "dbid": 1044,
     "season": {
+      "name": "2016/2017",
       "end": 1498777200000.0,
       "start": 1467241200000.0,
-      "dbid": 12,
-      "name": "2016/2017"
+      "dbid": 12
     },
-    "hasCardStats": true,
-    "hasGoalStats": true
+    "competition": {
+      "name": "Premier League",
+      "flagUrl": "https://static.crowdscores.com/flags/england.png",
+      "ordering": 6400,
+      "dbid": 2
+    },
+    "hasAssistStats": true,
+    "hasCardStats": true
   }
 ]

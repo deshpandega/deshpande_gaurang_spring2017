@@ -126,6 +126,9 @@ For Analysis 2, I am finding the statistics for each team per game. I am retriev
 > - Gridlines are made visible using `set_minor_locator` and `grid`properties
 > - The plots are saved under `final/analysis/ana_2/*` folder with names `shots_on_target_per_game_for_all_teams_vs_opposition.png`, and `goals_scored_per_game_for_all_teams_vs_opposition.png`
 
+**Special Cases**
+If we are fetching the data on a Saturday evening, in GMT, the date is changed to Sunday and there are matches on Sunday in GMT but during the day time. Till the day isn't over, we can still get NaN for any of the matches. So we will consider the data till yesterday.
+
 **Plots**
 ![shots-per-game](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/shots_per_game.png)
 

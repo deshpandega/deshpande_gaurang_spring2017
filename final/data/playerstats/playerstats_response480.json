@@ -1,257 +1,257 @@
 [
   {
-    "shortName": "Gray",
-    "playerstats": [
-      {
-        "yellowCards": 2,
-        "goals": 8,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 2,
-        "competitionId": 2
-      }
-    ],
     "name": "Andre Gray",
-    "dbid": 24537,
+    "shortName": "Gray",
     "number": 7,
-    "position": "FW"
-  },
-  {
-    "shortName": "Vokes",
     "playerstats": [
       {
-        "yellowCards": 0,
-        "goals": 6,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 2,
-        "competitionId": 2
-      }
-    ],
-    "name": "Sam Vokes",
-    "dbid": 17790,
-    "number": 9,
-    "position": "FW"
-  },
-  {
-    "shortName": "Barnes",
-    "playerstats": [
-      {
-        "yellowCards": 7,
-        "goals": 5,
+        "goals": 8,
+        "yellowCards": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Ashley Barnes",
-    "dbid": 21628,
-    "number": 10,
-    "position": "FW"
+    "position": "FW",
+    "dbid": 24537
   },
   {
-    "shortName": "Hendrick",
+    "name": "Sam Vokes",
+    "shortName": "Vokes",
+    "number": 9,
     "playerstats": [
       {
-        "yellowCards": 5,
+        "assists": 2,
+        "goals": 6,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 17790
+  },
+  {
+    "name": "Ashley Barnes",
+    "shortName": "Barnes",
+    "number": 10,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 5,
+        "yellowCards": 7,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 21628
+  },
+  {
+    "name": "Jeff Hendrick",
+    "shortName": "Hendrick",
+    "number": 13,
+    "playerstats": [
+      {
+        "assists": 1,
         "goals": 2,
+        "yellowCards": 5,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Jeff Hendrick",
-    "dbid": 17805,
-    "number": 13,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 17805
   },
   {
-    "shortName": "Keane",
-    "playerstats": [
-      {
-        "yellowCards": 4,
-        "goals": 2,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
     "name": "Michael Keane",
-    "dbid": 16944,
+    "shortName": "Keane",
     "number": 5,
-    "position": "DF"
-  },
-  {
-    "shortName": "Boyd",
     "playerstats": [
       {
-        "yellowCards": 3,
+        "assists": 1,
         "goals": 2,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "George Boyd",
-    "dbid": 17686,
-    "number": 21,
-    "position": "MF"
-  },
-  {
-    "shortName": "Defour",
-    "playerstats": [
-      {
-        "yellowCards": 1,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 3,
-        "competitionId": 2
-      }
-    ],
-    "name": "Steven Defour",
-    "dbid": 17761,
-    "number": 16,
-    "position": "MF"
-  },
-  {
-    "shortName": "Marney",
-    "playerstats": [
-      {
-        "yellowCards": 7,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 2,
-        "competitionId": 2
-      }
-    ],
-    "name": "Dean Marney",
-    "dbid": 19780,
-    "number": 8,
-    "position": "MF"
-  },
-  {
-    "shortName": "Gu\u00f0mundsson",
-    "playerstats": [
-      {
-        "yellowCards": 0,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
-    "name": "J\u00f3hann Berg Gu\u00f0mundsson",
-    "dbid": 19201,
-    "number": 25,
-    "position": "MF"
-  },
-  {
-    "shortName": "Barton",
-    "playerstats": [
-      {
         "yellowCards": 4,
-        "goals": 1,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Joey Barton",
-    "dbid": 21381,
-    "number": 19,
-    "position": "MF"
+    "position": "DF",
+    "dbid": 16944
   },
   {
-    "shortName": "Arfield",
+    "name": "George Boyd",
+    "shortName": "Boyd",
+    "number": 21,
     "playerstats": [
       {
+        "assists": 0,
+        "goals": 2,
         "yellowCards": 3,
-        "goals": 1,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Scott Arfield",
-    "dbid": 19790,
-    "number": 37,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 17686
   },
   {
-    "shortName": "Brady",
+    "name": "Steven Defour",
+    "shortName": "Defour",
+    "number": 16,
     "playerstats": [
       {
-        "yellowCards": 0,
+        "assists": 3,
         "goals": 1,
+        "yellowCards": 1,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Robbie Brady",
-    "dbid": 17680,
-    "number": 12,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 17761
   },
   {
-    "shortName": "Mee",
+    "name": "Dean Marney",
+    "shortName": "Marney",
+    "number": 8,
     "playerstats": [
       {
-        "yellowCards": 5,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Ben Mee",
-    "dbid": 19778,
-    "number": 6,
-    "position": "DF"
-  },
-  {
-    "shortName": "Ward",
-    "playerstats": [
-      {
-        "yellowCards": 5,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Stephen Ward",
-    "dbid": 21634,
-    "number": 23,
-    "position": "DF"
-  },
-  {
-    "shortName": "Lowton",
-    "playerstats": [
-      {
-        "yellowCards": 8,
-        "goals": 0,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 2,
+        "goals": 1,
+        "yellowCards": 7,
+        "redCards": 0,
+        "competitionName": "Premier League",
         "competitionId": 2
       }
     ],
+    "position": "MF",
+    "dbid": 19780
+  },
+  {
+    "name": "J\u00f3hann Berg Gu\u00f0mundsson",
+    "shortName": "Gu\u00f0mundsson",
+    "number": 25,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 1,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 19201
+  },
+  {
+    "name": "Joey Barton",
+    "shortName": "Barton",
+    "number": 19,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 1,
+        "yellowCards": 4,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 21381
+  },
+  {
+    "name": "Scott Arfield",
+    "shortName": "Arfield",
+    "number": 37,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 1,
+        "yellowCards": 3,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 19790
+  },
+  {
+    "name": "Robbie Brady",
+    "shortName": "Brady",
+    "number": 12,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 1,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 17680
+  },
+  {
+    "name": "Ben Mee",
+    "shortName": "Mee",
+    "number": 6,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 5,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 19778
+  },
+  {
+    "name": "Stephen Ward",
+    "shortName": "Ward",
+    "number": 23,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 5,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 21634
+  },
+  {
     "name": "Matthew Lowton",
-    "dbid": 17159,
+    "shortName": "Lowton",
     "number": 2,
-    "position": "DF"
+    "playerstats": [
+      {
+        "assists": 2,
+        "goals": 0,
+        "yellowCards": 8,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17159
   }
 ]

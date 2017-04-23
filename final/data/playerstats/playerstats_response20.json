@@ -1,308 +1,308 @@
 [
   {
-    "shortName": "Ag\u00fcero",
-    "playerstats": [
-      {
-        "yellowCards": 3,
-        "goals": 17,
-        "redCards": 1,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
     "name": "Sergio Ag\u00fcero",
-    "dbid": 17183,
+    "shortName": "Ag\u00fcero",
     "number": 10,
-    "position": "FW"
-  },
-  {
-    "shortName": "Sterling",
     "playerstats": [
       {
-        "yellowCards": 6,
-        "goals": 6,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 10,
-        "competitionId": 2
-      }
-    ],
-    "name": "Raheem Sterling",
-    "dbid": 17021,
-    "number": 7,
-    "position": "MF"
-  },
-  {
-    "shortName": "San\u00e9",
-    "playerstats": [
-      {
-        "yellowCards": 2,
-        "goals": 5,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 3,
-        "competitionId": 2
-      }
-    ],
-    "name": "Leroy San\u00e9",
-    "dbid": 28630,
-    "number": 19,
-    "position": "MF"
-  },
-  {
-    "shortName": "De Bruyne",
-    "playerstats": [
-      {
-        "yellowCards": 4,
-        "goals": 4,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 13,
-        "competitionId": 2
-      }
-    ],
-    "name": "Kevin De Bruyne",
-    "dbid": 16995,
-    "number": 17,
-    "position": "MF"
-  },
-  {
-    "shortName": "Iheanacho",
-    "playerstats": [
-      {
-        "yellowCards": 0,
-        "goals": 4,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 3,
-        "competitionId": 2
-      }
-    ],
-    "name": "Kelechi Iheanacho",
-    "dbid": 54050,
-    "number": 72,
-    "position": "FW"
-  },
-  {
-    "shortName": "Nolito",
-    "playerstats": [
-      {
+        "assists": 1,
+        "goals": 17,
         "yellowCards": 3,
-        "goals": 4,
         "redCards": 1,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
-    "name": "Nolito",
-    "dbid": 23117,
-    "number": 9,
-    "position": "FW"
+    "position": "FW",
+    "dbid": 17183
   },
   {
-    "shortName": "Tour\u00e9",
+    "name": "Raheem Sterling",
+    "shortName": "Sterling",
+    "number": 7,
     "playerstats": [
       {
-        "yellowCards": 4,
-        "goals": 4,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Yaya Tour\u00e9",
-    "dbid": 17193,
-    "number": 42,
-    "position": "MF"
-  },
-  {
-    "shortName": "Jesus",
-    "playerstats": [
-      {
-        "yellowCards": 1,
-        "goals": 3,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
-    "name": "Gabriel Jesus",
-    "dbid": 37900,
-    "number": 33,
-    "position": "FW"
-  },
-  {
-    "shortName": "G\u00fcndo\u011fan",
-    "playerstats": [
-      {
-        "yellowCards": 0,
-        "goals": 3,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
-    "name": "\u0130lkay G\u00fcndo\u011fan",
-    "dbid": 18490,
-    "number": 8,
-    "position": "MF"
-  },
-  {
-    "shortName": "Silva",
-    "playerstats": [
-      {
+        "assists": 10,
+        "goals": 6,
         "yellowCards": 6,
-        "goals": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 7,
         "competitionId": 2
       }
     ],
-    "name": "David Silva",
-    "dbid": 17186,
-    "number": 21,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 17021
   },
   {
-    "shortName": "Fernandinho",
+    "name": "Leroy San\u00e9",
+    "shortName": "San\u00e9",
+    "number": 19,
     "playerstats": [
       {
+        "assists": 3,
+        "goals": 5,
+        "yellowCards": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 28630
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "shortName": "De Bruyne",
+    "number": 17,
+    "playerstats": [
+      {
+        "assists": 13,
+        "goals": 4,
         "yellowCards": 4,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 16995
+  },
+  {
+    "name": "Kelechi Iheanacho",
+    "shortName": "Iheanacho",
+    "number": 72,
+    "playerstats": [
+      {
+        "assists": 3,
+        "goals": 4,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 54050
+  },
+  {
+    "name": "Nolito",
+    "shortName": "Nolito",
+    "number": 9,
+    "playerstats": [
+      {
+        "assists": 2,
+        "goals": 4,
+        "yellowCards": 3,
+        "redCards": 1,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 23117
+  },
+  {
+    "name": "Yaya Tour\u00e9",
+    "shortName": "Tour\u00e9",
+    "number": 42,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 4,
+        "yellowCards": 4,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 17193
+  },
+  {
+    "name": "Gabriel Jesus",
+    "shortName": "Jesus",
+    "number": 33,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 3,
+        "yellowCards": 1,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 37900
+  },
+  {
+    "name": "\u0130lkay G\u00fcndo\u011fan",
+    "shortName": "G\u00fcndo\u011fan",
+    "number": 8,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 3,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 18490
+  },
+  {
+    "name": "David Silva",
+    "shortName": "Silva",
+    "number": 21,
+    "playerstats": [
+      {
+        "assists": 7,
+        "goals": 2,
+        "yellowCards": 6,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 17186
+  },
+  {
+    "name": "Fernandinho",
+    "shortName": "Fernandinho",
+    "number": 25,
+    "playerstats": [
+      {
+        "assists": 1,
         "goals": 1,
+        "yellowCards": 4,
         "redCards": 2,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Fernandinho",
-    "dbid": 17188,
-    "number": 25,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 17188
   },
   {
-    "shortName": "Kolarov",
-    "playerstats": [
-      {
-        "yellowCards": 6,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 1,
-        "competitionId": 2
-      }
-    ],
     "name": "Aleksandar Kolarov",
-    "dbid": 17180,
+    "shortName": "Kolarov",
     "number": 11,
-    "position": "DF"
-  },
-  {
-    "shortName": "Clichy",
     "playerstats": [
       {
-        "yellowCards": 2,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Ga\u00ebl Clichy",
-    "dbid": 17187,
-    "number": 22,
-    "position": "DF"
-  },
-  {
-    "shortName": "Kompany",
-    "playerstats": [
-      {
-        "yellowCards": 2,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Vincent Kompany",
-    "dbid": 17172,
-    "number": 4,
-    "position": "DF"
-  },
-  {
-    "shortName": "Zabaleta",
-    "playerstats": [
-      {
-        "yellowCards": 2,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Pablo Zabaleta",
-    "dbid": 17173,
-    "number": 5,
-    "position": "DF"
-  },
-  {
-    "shortName": "Delph",
-    "playerstats": [
-      {
-        "yellowCards": 1,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
-    "name": "Fabian Delph",
-    "dbid": 17151,
-    "number": 18,
-    "position": "MF"
-  },
-  {
-    "shortName": "Otamendi",
-    "playerstats": [
-      {
-        "yellowCards": 8,
-        "goals": 0,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 2,
-        "competitionId": 2
-      }
-    ],
-    "name": "Nicol\u00e1s Otamendi",
-    "dbid": 18580,
-    "number": 30,
-    "position": "DF"
-  },
-  {
-    "shortName": "Sagna",
-    "playerstats": [
-      {
-        "yellowCards": 2,
-        "goals": 0,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 1,
+        "goals": 1,
+        "yellowCards": 6,
+        "redCards": 0,
+        "competitionName": "Premier League",
         "competitionId": 2
       }
     ],
+    "position": "DF",
+    "dbid": 17180
+  },
+  {
+    "name": "Ga\u00ebl Clichy",
+    "shortName": "Clichy",
+    "number": 22,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17187
+  },
+  {
+    "name": "Vincent Kompany",
+    "shortName": "Kompany",
+    "number": 4,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17172
+  },
+  {
+    "name": "Pablo Zabaleta",
+    "shortName": "Zabaleta",
+    "number": 5,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17173
+  },
+  {
+    "name": "Fabian Delph",
+    "shortName": "Delph",
+    "number": 18,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 1,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 17151
+  },
+  {
+    "name": "Nicol\u00e1s Otamendi",
+    "shortName": "Otamendi",
+    "number": 30,
+    "playerstats": [
+      {
+        "assists": 2,
+        "goals": 0,
+        "yellowCards": 8,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 18580
+  },
+  {
     "name": "Bacary Sagna",
-    "dbid": 17467,
+    "shortName": "Sagna",
     "number": 3,
-    "position": "DF"
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 0,
+        "yellowCards": 2,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17467
   }
 ]

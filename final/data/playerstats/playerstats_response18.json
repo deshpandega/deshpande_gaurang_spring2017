@@ -1,308 +1,308 @@
 [
   {
-    "shortName": "S\u00e1nchez",
-    "playerstats": [
-      {
-        "yellowCards": 5,
-        "goals": 19,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 10,
-        "competitionId": 2
-      }
-    ],
     "name": "Alexis S\u00e1nchez",
-    "dbid": 17937,
+    "shortName": "S\u00e1nchez",
     "number": 7,
-    "position": "FW"
-  },
-  {
-    "shortName": "Walcott",
     "playerstats": [
       {
-        "yellowCards": 1,
-        "goals": 10,
+        "assists": 10,
+        "goals": 19,
+        "yellowCards": 5,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
+    "position": "FW",
+    "dbid": 17937
+  },
+  {
     "name": "Theo Walcott",
-    "dbid": 17476,
+    "shortName": "Walcott",
     "number": 14,
-    "position": "FW"
-  },
-  {
-    "shortName": "Giroud",
     "playerstats": [
       {
+        "assists": 2,
+        "goals": 10,
         "yellowCards": 1,
-        "goals": 9,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 3,
         "competitionId": 2
       }
     ],
+    "position": "FW",
+    "dbid": 17476
+  },
+  {
     "name": "Olivier Giroud",
-    "dbid": 17475,
+    "shortName": "Giroud",
     "number": 12,
-    "position": "FW"
-  },
-  {
-    "shortName": "\u00d6zil",
     "playerstats": [
       {
-        "yellowCards": 0,
-        "goals": 7,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 6,
-        "competitionId": 2
-      }
-    ],
-    "name": "Mesut \u00d6zil",
-    "dbid": 18622,
-    "number": 11,
-    "position": "MF"
-  },
-  {
-    "shortName": "Iwobi",
-    "playerstats": [
-      {
-        "yellowCards": 1,
-        "goals": 3,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 3,
-        "competitionId": 2
-      }
-    ],
-    "name": "Alex Iwobi",
-    "dbid": 34666,
-    "number": 17,
-    "position": "FW"
-  },
-  {
-    "shortName": "Chamberlain",
-    "playerstats": [
-      {
+        "goals": 9,
         "yellowCards": 1,
-        "goals": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 5,
         "competitionId": 2
       }
     ],
+    "position": "FW",
+    "dbid": 17475
+  },
+  {
+    "name": "Mesut \u00d6zil",
+    "shortName": "\u00d6zil",
+    "number": 11,
+    "playerstats": [
+      {
+        "assists": 6,
+        "goals": 7,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 18622
+  },
+  {
+    "name": "Alex Iwobi",
+    "shortName": "Iwobi",
+    "number": 17,
+    "playerstats": [
+      {
+        "assists": 3,
+        "goals": 3,
+        "yellowCards": 1,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "FW",
+    "dbid": 34666
+  },
+  {
     "name": "Alex Oxlade-Chamberlain",
-    "dbid": 17477,
+    "shortName": "Chamberlain",
     "number": 15,
-    "position": "MF"
-  },
-  {
-    "shortName": "Cazorla",
     "playerstats": [
       {
-        "yellowCards": 2,
+        "assists": 5,
         "goals": 2,
+        "yellowCards": 1,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
+    "position": "MF",
+    "dbid": 17477
+  },
+  {
     "name": "Santi Cazorla",
-    "dbid": 17480,
+    "shortName": "Cazorla",
     "number": 19,
-    "position": "MF"
-  },
-  {
-    "shortName": "Mustafi",
     "playerstats": [
       {
-        "yellowCards": 9,
-        "goals": 2,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 2,
-        "competitionId": 2
-      }
-    ],
-    "name": "Shkodran Mustafi",
-    "dbid": 23134,
-    "number": 20,
-    "position": "DF"
-  },
-  {
-    "shortName": "Koscielny",
-    "playerstats": [
-      {
-        "yellowCards": 3,
         "goals": 2,
+        "yellowCards": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0,
         "competitionId": 2
       }
     ],
-    "name": "Laurent Koscielny",
-    "dbid": 17470,
-    "number": 6,
-    "position": "DF"
+    "position": "MF",
+    "dbid": 17480
   },
   {
-    "shortName": "Xhaka",
+    "name": "Shkodran Mustafi",
+    "shortName": "Mustafi",
+    "number": 20,
     "playerstats": [
       {
-        "yellowCards": 4,
+        "assists": 2,
+        "goals": 2,
+        "yellowCards": 9,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 23134
+  },
+  {
+    "name": "Laurent Koscielny",
+    "shortName": "Koscielny",
+    "number": 6,
+    "playerstats": [
+      {
+        "assists": 0,
+        "goals": 2,
+        "yellowCards": 3,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17470
+  },
+  {
+    "name": "Granit Xhaka",
+    "shortName": "Xhaka",
+    "number": 29,
+    "playerstats": [
+      {
+        "assists": 2,
         "goals": 1,
+        "yellowCards": 4,
         "redCards": 2,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
-    "name": "Granit Xhaka",
-    "dbid": 19145,
-    "number": 29,
-    "position": "MF"
+    "position": "MF",
+    "dbid": 19145
   },
   {
-    "shortName": "Welbeck",
-    "playerstats": [
-      {
-        "yellowCards": 0,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
-        "assists": 0,
-        "competitionId": 2
-      }
-    ],
     "name": "Danny Welbeck",
-    "dbid": 16933,
+    "shortName": "Welbeck",
     "number": 23,
-    "position": "FW"
-  },
-  {
-    "shortName": "Perez",
     "playerstats": [
       {
-        "yellowCards": 0,
+        "assists": 0,
         "goals": 1,
+        "yellowCards": 0,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 0,
         "competitionId": 2
       }
     ],
+    "position": "FW",
+    "dbid": 16933
+  },
+  {
     "name": "Lucas Perez",
-    "dbid": 77139,
+    "shortName": "Perez",
     "number": 9,
-    "position": "FW"
-  },
-  {
-    "shortName": "Chambers",
     "playerstats": [
       {
-        "yellowCards": 0,
-        "goals": 1,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 0,
+        "goals": 1,
+        "yellowCards": 0,
+        "redCards": 0,
+        "competitionName": "Premier League",
         "competitionId": 2
       }
     ],
+    "position": "FW",
+    "dbid": 77139
+  },
+  {
     "name": "Calum Chambers",
-    "dbid": 17240,
+    "shortName": "Chambers",
     "number": 25,
-    "position": "DF"
-  },
-  {
-    "shortName": "Ramsey",
     "playerstats": [
       {
-        "yellowCards": 3,
-        "goals": 0,
+        "assists": 0,
+        "goals": 1,
+        "yellowCards": 0,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
+    "position": "DF",
+    "dbid": 17240
+  },
+  {
     "name": "Aaron Ramsey",
-    "dbid": 17478,
+    "shortName": "Ramsey",
     "number": 8,
-    "position": "MF"
-  },
-  {
-    "shortName": "Monreal",
     "playerstats": [
       {
-        "yellowCards": 3,
+        "assists": 2,
         "goals": 0,
+        "yellowCards": 3,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 2,
         "competitionId": 2
       }
     ],
+    "position": "MF",
+    "dbid": 17478
+  },
+  {
     "name": "Nacho Monreal",
-    "dbid": 17479,
+    "shortName": "Monreal",
     "number": 18,
-    "position": "DF"
-  },
-  {
-    "shortName": "Beller\u00edn",
     "playerstats": [
       {
-        "yellowCards": 2,
-        "goals": 0,
-        "redCards": 0,
-        "competitionName": "Premier League",
         "assists": 2,
-        "competitionId": 2
-      }
-    ],
-    "name": "H\u00e9ctor Beller\u00edn",
-    "dbid": 21366,
-    "number": 24,
-    "position": "DF"
-  },
-  {
-    "shortName": "Gibbs",
-    "playerstats": [
-      {
+        "goals": 0,
         "yellowCards": 3,
-        "goals": 0,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
-    "name": "Kieran Gibbs",
-    "dbid": 17487,
-    "number": 3,
-    "position": "DF"
+    "position": "DF",
+    "dbid": 17479
   },
   {
-    "shortName": "Elneny",
+    "name": "H\u00e9ctor Beller\u00edn",
+    "shortName": "Beller\u00edn",
+    "number": 24,
     "playerstats": [
       {
-        "yellowCards": 1,
+        "assists": 2,
         "goals": 0,
+        "yellowCards": 2,
         "redCards": 0,
         "competitionName": "Premier League",
-        "assists": 1,
         "competitionId": 2
       }
     ],
+    "position": "DF",
+    "dbid": 21366
+  },
+  {
+    "name": "Kieran Gibbs",
+    "shortName": "Gibbs",
+    "number": 3,
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 0,
+        "yellowCards": 3,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "DF",
+    "dbid": 17487
+  },
+  {
     "name": "Mohamed Elneny",
-    "dbid": 18412,
+    "shortName": "Elneny",
     "number": 35,
-    "position": "MF"
+    "playerstats": [
+      {
+        "assists": 1,
+        "goals": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "competitionName": "Premier League",
+        "competitionId": 2
+      }
+    ],
+    "position": "MF",
+    "dbid": 18412
   }
 ]
