@@ -28,21 +28,20 @@ APIs listed under **Fantasy Premier League** are used to gather team details, mo
 > 
 > - Exported the crowdscore api key to bash terminal and read as an *environment variable*. 
 > - Used a list to store the api names which will be used to fetch data. The list of apis used are:
-> - -
 > **From Sports DB:**
 >  `search_all_leagues` to get league id for English Premier League
 >  `lookup_all_teams`  to get list of team ids and details of all teams according to league id sent as input parameter
 >  `lookup_all_players` to get details of all players according to team ids sent as input parameter. All team ids are stored in a list and the api is called in a for loop for each team id as input parameter and a single list of all players is maintained. Player details for each team are extended in a single list.
 >  `eventsseason` to get details about each match in EPL according to league id retrived above and current season going on. If the current month is *July or before*, the season is *last year - current year*. If current month is *August or after*, season is *this year - next year*
+>  
 >  **From Crowdscores.com**
 >  `teams` to get list of team ids with api key and competition id as input parameters, (competition id 2 for EPL)
 >  `seasons` to get season id with api key as input parameter
 >  `rounds` to get round id with api key and competition id as input parameters, (competition id 2 for EPL)
 >  `playerstats` to get player stats (goals, assists, yellow cards, red cards till now for current season) with api key, team id, round id, competition id, season id. The api is called in a for loop for each team id and response for players of each team are stored in separate file with name playerstats_response_< team_id >.json
+>  
 >  **From Fantasy Premier League**
 >  `bootstrap-static` to get list of all players, all teams, player positions and more player stats like saves, penalties saved, own goals scored, clean sheets, minutes played, penalties missed, goals conceded, etc.
->  
-> - -
 > - Wrote functions to create folder structure as follows:
 > ```data/<api_name>/<api_name>_response.json``` except playerstats as mentioned above where I am using team id as well with the api name. Used relative path to create folders and to store json response in json file
 > - Wrote a function to fetch response from APIs with input parameter as mentioned before. This method is  called for all the APIs so parameters for all APIs are sent as input parameters where required. Using ```if``` condition kept a check on API to fetch response from. Used ```payload``` to pass API key and rest of parameters. And returned the ```response``` object.
@@ -117,6 +116,18 @@ For Analysis 2, I am finding the statistics for each team per game. I am retriev
 > - The plots are saved under `final/analysis/ana_2/*` folder with names `shots_on_target_per_game_for_all_teams_vs_opposition.png`, and `goals_scored_per_game_for_all_teams_vs_opposition.png`
 
 **Plots**
+![shots-per-game](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/shots_per_game.png)
+
+![score-per-game](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/score_per_game.png)
+
+![yellow-cards-per-game](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/yellow_cards_per_game.png)
+
+![red-cards-per-game](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/red_cards_per_game.png)
+
+![shots-on-target-team-vs-opposition](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/shots_on_target_per_game_for_all_teams_vs_opposition.png)
+
+![goals-scored-team-vs-opposition](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_2/goals_scored_per_game_for_all_teams_vs_opposition.png)
+
 
 **Conclusion**
 This analysis gives insight about teams performance over the season. It also helps in drafting what kind of strategy and formation you should be using while playing against any of the teams.
@@ -147,7 +158,7 @@ Output is stored in a *csv* format in `final/analysis/ana_3/best_players.csv` fi
 > - Plotted a swarm plot using `seaborn` library showing top 30 best rated players in EPL. Saved this plot in file `final/analysis/ana_3/best_players.png`
 
 **Plots**
-
+![best-players](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_3/best_players.png)
 
 **Conclusion**
 This analysis gives insight about player performance over the season. It helps in finding the best performing team for next matches. It also helps in finding the right player you may want to sign in the transfer window in future.
