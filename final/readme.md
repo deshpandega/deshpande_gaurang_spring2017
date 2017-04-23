@@ -23,7 +23,7 @@ APIs listed under **The Sports DB** are used to gather league details, team deta
 APIs listed under **Crowdscores** are used to gather player details like goals scored, assists, yellow and red cards awarded to players. 
 APIs listed under **Fantasy Premier League** are used to gather team details, more player stats like goals saved, penalties saved, penalties missed, own goals conceded, goals conceded, minutes played, player position, etc. 
 
-####Data_Collection.ipynb
+**Data_Collection.ipynb**
 > **Logic:**
 > 
 > - Exported the crowdscore api key to bash terminal and read as an *environment variable*. 
@@ -57,7 +57,7 @@ Analysis 1
 ------------
 Analysis 1 is about finding the highest contributing player in terms of goal scored. Goals scored by player to total goals scored by his team over the season is calculated and the ratio of player goals to team goals is considered. Relative path is used to read player stats for each team, all team names and matches played by each team; from ```final/data/playerstats/*```, `final/data/teams/*` and `final/data/eventsseason/*` folder. All players and teams are considered for this analysis. **```pandas DataFrame```** are used to hold all the details necessary for analysis.  **```seaborn```** bar plots are used to plot the graph and save to ```final/analysis/ana_1/biggest_contributors.png``` file
 
-####ana_1.ipynb
+**ana_1.ipynb**
 > **Logic:**
 
 > - Used relative path to fetch data from the sibling folder of parent folder of current file using `data_dir = os.path.join(current_dir, '..', 'data','playerstats','*')`, `team_dir = os.path.join(current_dir, '..', 'data','teams','*')` and `matches_dir = os.path.join(current_dir, '..', 'data','eventsseason','*')` 
@@ -76,17 +76,18 @@ Analysis 1 is about finding the highest contributing player in terms of goal sco
 > - Saved the plot using `fig.savefig()` method as a `.png` file with name **biggest_contributors.png**
 > - The file with all players and their contributions is saved in `final/analysis/ana_1/biggest_contributors.csv`
 
-####Plots
+**Plots**
+![biggest contributors](https://github.com/deshpandega/deshpande_gaurang_spring2017/blob/master/final/analysis/ana_1/biggest_contributors.png)
 
-
-####Conclusion
+**Conclusion**
 This analysis gives insight about which team is most dependent on which of their players for goals. This analysis can be used to study about the players you need to mark if you are facing that particular team, or to identify replacement player if your top contributor is injured or unavailable for a game.
 
 -----------
 Analysis 2
 ------------
 For Analysis 2, I am finding the statistics for each team per game. I am retrieving the goals scored by each team, shots on target by each team, yellow cards received by each team and red cards conceded by each team per match. I am also finding the shots on target and goals scored by each team vs the shots on target and goals scored by opposition team per game. Saving the output in a *csv* format and images in *png* format at ```final/analysis/ana_2/*```.
-####ana_2.ipynb
+
+**ana_2.ipynb**
 > **Logic:**
 
 > - Used relative path to fetch data from the sibling folder of parent folder of current file using ```matches_dir = os.path.join(current_dir, '..', 'data','eventsseason','*.json')```.
@@ -115,7 +116,9 @@ For Analysis 2, I am finding the statistics for each team per game. I am retriev
 > - Gridlines are made visible using `set_minor_locator` and `grid`properties
 > - The plots are saved under `final/analysis/ana_2/*` folder with names `shots_on_target_per_game_for_all_teams_vs_opposition.png`, and `goals_scored_per_game_for_all_teams_vs_opposition.png`
 
-####Conclusion
+**Plots**
+
+**Conclusion**
 This analysis gives insight about teams performance over the season. It also helps in drafting what kind of strategy and formation you should be using while playing against any of the teams.
 
 -----------
@@ -125,7 +128,7 @@ For Analysis 3, I am finding the top 30 best players from premier league. The pl
 +goal, +assist, +penalties saved, +saves, +clean sheets will give positive score where as -yellow card, -red card, -penalties missed, -own goal, -goal conceded will give negative score
 For each player, the minutes played is also considered
 Output is stored in a *csv* format in `final/analysis/ana_3/best_players.csv` file and the graph is stored in `final/analysis/ana_3/best_players.png` file.
-####ana_3.ipynb
+**ana_3.ipynb**
 > **Logic:**
 
 > - Used relative path to fetch data from the sibling folder of parent folder of current file using ```data_dir = os.path.join(current_dir, '..', 'data','fpl','*.json')```.
@@ -143,5 +146,8 @@ Output is stored in a *csv* format in `final/analysis/ana_3/best_players.csv` fi
 > - Save the file with all players in `final/analysis/ana_3/best_players.csv`
 > - Plotted a swarm plot using `seaborn` library showing top 30 best rated players in EPL. Saved this plot in file `final/analysis/ana_3/best_players.png`
 
-####Conclusion
+**Plots**
+
+
+**Conclusion**
 This analysis gives insight about player performance over the season. It helps in finding the best performing team for next matches. It also helps in finding the right player you may want to sign in the transfer window in future.
