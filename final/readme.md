@@ -23,6 +23,13 @@ APIs listed under **The Sports DB** are used to gather league details, team deta
 APIs listed under **Crowdscores** are used to gather player details like goals scored, assists, yellow and red cards awarded to players. 
 APIs listed under **Fantasy Premier League** are used to gather team details, more player stats like goals saved, penalties saved, penalties missed, own goals conceded, goals conceded, minutes played, player position, etc. 
 
+You can find the documentation for the APIs:
+[The Sports DB](http://www.thesportsdb.com/forum/viewtopic.php?f=7&t=1799&sid=e0d2edaf455206535b85451dece00038)
+
+[Crowdscores](https://docs.crowdscores.com/#page:competitions,header:competitions-competitions)
+
+Reddit link for Fantasy Premier League [API](https://www.reddit.com/r/FantasyPL/comments/4tpd2r/an_updated_link_for_the_fantasypl_web_api/)
+
 **Data_Collection.ipynb**
 > **Logic:**
 > 
